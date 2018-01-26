@@ -1,11 +1,11 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "GDG DevFest Switzerland 2018",
+  "description": "The biggest Google tech conference in Switzerland carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
+  "dates": "October 20-21, 2018",
+  "locationAddressShort": "Rapperswil, Switzerland",
+  "motto": "The biggest conference on Google technologies in Switzerland organized by GDG CH. All about machine learning, programming, emerging technologies and much more!",
+  "playIcon": "See how it was in 2016 (TODO?: 2017)",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
   "backToTop": "Back to top",
@@ -23,16 +23,16 @@
   "clickToViewPhotos": "Click here to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
+  "featuredVideosTitle": "Featured #devfest17 Sessions",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "HSR Hochschule für Technik Rapperswil",
+  "locationDescription": "The iconic HSR Hochschule für Technik Rapperswil is located next to the lake of Zurich, and the large conference room is perfect for hosting the GDG DevFest 2018",
+  "locationAddress": "HSR Hochschule für Technik Rapperswil, Oberseestrasse 10, 8640 Rapperswil",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers": "<a href='https://www.meetup.com/GDG-Zurich/' target='_blank'>GDG Zürich</a> with support of multiple GDGs from all around Switzerland is proud organizer of DevFest Switzerland",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
@@ -78,18 +78,8 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Switzerland 2017",
+          "url": "http://devfest.ch/2017",
           "newTab": true
         }
       ]
@@ -98,12 +88,12 @@
       "title": "For Partners",
       "links": [
         {
-          "text": "Partnership Proposition",
+          "text": "TODO Partnership Proposition",
           "url": "http://bit.ly/df16-sponsor",
           "newTab": true
         },
         {
-          "text": "Media Kit",
+          "text": "TODO Media Kit",
           "url": "http://bit.ly/df16-media",
           "newTab": true
         }
@@ -113,16 +103,16 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "info@devfest.ch",
+        "url": "mailto:info@devfest.ch"
       }
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Zürich](https://www.meetup.com/GDG-Zurich/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Swiss audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 200,
       "caption": "Attendees"
     },
     {
@@ -130,16 +120,12 @@
       "caption": "Days"
     },
     {
-      "counter": 30,
+      "counter": 13,
       "caption": "Sessions"
-    },
-    {
-      "counter": 3,
-      "caption": "Tracks"
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG DevFest Switzerland 2016",
+    "videoId": "ojeFtdr3h5s"
   }
 }

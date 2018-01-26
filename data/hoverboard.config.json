@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfest18ch-master.firebaseapp.com/",
+  "startDate": "2018-09-20T09:00:00+01:00",
+  "endDate": "2018-09-21T19:00:00+01:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-92829053-1",
+    "dev": "UA-92829053-2"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Zürich",
+    "twitter": "GDGSwitzerland"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,27 +16,27 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest18ch-master",
+    "domain": "devfest18ch-master.firebaseapp.com",
+    "database": "https://devfest18ch-master.firebaseio.com",
+    "api": "AIzaSyAOTEOT09Wk2C-AWztYk2a84EXIUioWyQk",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
+    "indexedDbSession": "devfest18ch"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "TODO https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "TODO b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "devfest18",
+  "disqusShortName": "TODO hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "partnershipProposition": "TODO http://bit.ly/df16-sponsor",
+  "videosSessionsUrl": "TODO https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -63,38 +63,33 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDG Switzerland",
+      "url": "https://twitter.com/GDGSwitzerland"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "107142112628085156329",
+      "url": "https://plus.google.com/u/0/+GDGSwitzerland"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG Switzerland",
+      "url": "https://www.facebook.com/GDGSwitzerland"
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyASyEk9T0mftS7dpPDY0Uvc1XPcV1S6Fz8",
+    "name": "HSR Hochschule für Technik Rapperswil",
+    "address": "Oberseestrasse 10, 8640 Rapperswil",
+    "link": "https://goo.gl/maps/Q1NGi8aGyBB2",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 47.223455,
+      "longitude": 8.816826,
+      "zoom": 11
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 47.223455,
+      "longitude": 8.816826
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,7 +98,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/u/0/+GDGSwitzerland",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -121,8 +116,8 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
+          "title": "GDG DevFest Switzerland 2016",
+          "youtubeId": "ojeFtdr3h5s",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,
