@@ -1,3 +1,14 @@
+# GDG DevFest Switzerland 2018 Website
+
+## Website Live Versions
+
+[Master](https://devfest18ch-master.firebaseapp.com/)
+[Develop](https://devfest18ch-develop.firebaseapp.com/)
+
+## Deployment
+
+Deployment is automated using Travis CI. See [the deployment docs](/docs/tutorials/deploy.md) for details.
+
 ![preview-web](https://cloud.githubusercontent.com/assets/2954281/17777476/5dbbbe1c-6569-11e6-9cc4-77185ae9bf92.png)
 
 # Project Hoverboard
@@ -17,19 +28,19 @@ from [GDG Lviv](http://lviv.gdg.org.ua/).
 :zap: [Live demo](https://hoverboard-dev.firebaseapp.com/)
 
 ### Features
-:white_check_mark: Polymer  
-:white_check_mark: [PRPL pattern](https://www.polymer-project.org/1.0/toolbox/server)  
-:white_check_mark: Offline access  
-:white_check_mark: Material design  
-:white_check_mark: Animations  
-:white_check_mark: Integrated speakers and sessions management  
-:white_check_mark: SEO friendly  
-:white_check_mark: Optimized and fast  
-:white_check_mark: Editable theme colors  
-:white_check_mark: Quick deploy (with [Travis CI](/docs/tutorials/deploy.md))  
-:white_check_mark: My schedule  
-:white_check_mark: Firebase Data Loading :new:  
-:white_check_mark: Sessions star rating :new:  
+:white_check_mark: Polymer
+:white_check_mark: [PRPL pattern](https://www.polymer-project.org/1.0/toolbox/server)
+:white_check_mark: Offline access
+:white_check_mark: Material design
+:white_check_mark: Animations
+:white_check_mark: Integrated speakers and sessions management
+:white_check_mark: SEO friendly
+:white_check_mark: Optimized and fast
+:white_check_mark: Editable theme colors
+:white_check_mark: Quick deploy (with [Travis CI](/docs/tutorials/deploy.md))
+:white_check_mark: My schedule
+:white_check_mark: Firebase Data Loading :new:
+:white_check_mark: Sessions star rating :new:
 
 ### Setup
 :book: [Full documentation](/docs/).
@@ -51,10 +62,10 @@ and execute the commands associated to the docker env in the following documenta
 ##### Install dependencies
 
     npm install
-    
-Or you can install with Docker container: 
-     
-    docker run -v "$PWD":/app hoverboard npm install 
+
+Or you can install with Docker container:
+
+    docker run -v "$PWD":/app hoverboard npm install
 
 ##### Start the development server
 
@@ -62,7 +73,7 @@ This command serves the app at `http://localhost:3000` and provides basic URL
 routing for the app:
 
     npm run serve
-    
+
 Or you can serve Docker container:
 
     docker run -v "$PWD":/app hoverboard
@@ -83,7 +94,7 @@ Or you can build in Docker container:
 
     docker run -v "$PWD":/app hoverboard npm run build
 
-:book: Read more in [deploy docs](/docs/tutorials/deploy.md).   
+:book: Read more in [deploy docs](/docs/tutorials/deploy.md).
 
 ### Updating
 Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
@@ -109,7 +120,7 @@ pull request, so we can include you in this list.
 | [GDG Bingham University Website](http://bhu.gdg.ng)             | [Google I/O Extended 2016 Kuala Lumpur](https://ioxkl2016.firebaseapp.com)  | [GDG DevFest Hamburg 2016](https://hamburg.devfest.de)      |
 | [GDG DevFest Mezam 2016](https://devfest-mezam.gdgbambili.xyz)  | [GDG DevFest Vietnam 2016](https://devfest.vn)                              | [GDG DevFest Seattle 2016](https://devfest.gdgseattle.org)  |
 | [GDG DevFest Belgium 2016](https://devfest.be)                  | [GDG DevFest Lisbon 2016](https://devfestlisbon.firebaseapp.com)            | [GDG DevFest Sudbury 2016](https://devfest.gdgsudbury.ca)   |
-| [GDG DevFest Hong Kong 2016](https://devfest.gdghk.org)         | [GDG DevFest London 2016](https://devfest-london-2016.firebaseapp.com/)     | [GDG DevFest Paraná 2016](https://devfestpr.org/)           |  
+| [GDG DevFest Hong Kong 2016](https://devfest.gdghk.org)         | [GDG DevFest London 2016](https://devfest-london-2016.firebaseapp.com/)     | [GDG DevFest Paraná 2016](https://devfestpr.org/)           |
 | [GDG DevFest Srilanka 2016](https://devfest16.gdgsrilanka.org/) | [GDG DevFest Incheon 2016](http://devfest16in.gdg.kr/)                      | [GDG Dschang 2016 Website](http://gdgdschang.com)           |
 | [GDG DevFest Eskisehir 2016](https://df16.gdgeskisehir.com/)    | [GDG DevFest Poland 2016](https://devfest.pl/)                              | [GDG DevFest Pilsen 2016](https://devfest.cz/)              |
 | [GDG DevFest Switzerland 2016](https://devfest.ch/)             | [GDG DevFest Toulouse 2016](https://devfesttoulouse.fr/)                    | [GDG Ohio DevFest](https://ohiodevfest.com/)                |
@@ -123,11 +134,11 @@ pull request, so we can include you in this list.
 |
 
 ### Roadmap :rocket:
-:x: Admin panel    
-:x: Push notification  
-:x: ES2015  
-:x: Accessibility  
-:x: Unit/Integration Tests  
+:x: Admin panel
+:x: Push notification
+:x: ES2015
+:x: Accessibility
+:x: Unit/Integration Tests
 :point_right: __Propose your feature with [creating an issue](https://github.com/gdg-x/hoverboard/issues/new)__
 
 ### Contributing
@@ -157,7 +168,7 @@ This project exists thanks to all the [people who contribute](https://github.com
 
 
 ### Sponsoring
-Most of the core team members, hoverboard contributors and contributors in the ecosystem do this open source work in their free time. If you like this project and it makes your life easier, please donate.  
+Most of the core team members, hoverboard contributors and contributors in the ecosystem do this open source work in their free time. If you like this project and it makes your life easier, please donate.
 <a href="https://opencollective.com/hoverboard#backers" target="_blank"><img src="https://opencollective.com/hoverboard/backers.svg?width=890"></a>
 
 
@@ -166,7 +177,7 @@ Most of the core team members, hoverboard contributors and contributors in the e
 
 ### License
 
-Project is published under the [MIT license](https://github.com/gdg-x/hoverboard/blob/master/LICENSE.md).  
+Project is published under the [MIT license](https://github.com/gdg-x/hoverboard/blob/master/LICENSE.md).
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 
