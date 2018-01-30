@@ -121,7 +121,7 @@
           links1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim;
           replacedText = value.replace(links1, '<a class="post-link" href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
           links2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
-          replacedText = replacedText.replace(links2, '$1<a class="post-link" href="http://$2" target="_blank" rel="noopener noreferrer">$2</a>');
+          replacedText = replacedText.replace(links2, '$1<a class="post-link" href="https://$2" target="_blank" rel="noopener noreferrer">$2</a>');
           hashtags = /#(\S*)/g;
           replacedText = replacedText.replace(hashtags, '<a class="post-link" href="https://twitter.com/search?q=%23$1" target="_blank" rel="noopener noreferrer">#$1</a>');
           profileLinks = /\B@([\w-]+)/gm;
