@@ -1,3 +1,5 @@
+TODO: update content
+
 <img src="/images/posts/summary1.jpg" style="width: 100%;"/>
 
 [GDG DevFest Ukraine 2015](https://devfest.gdg.org.ua/2015/) is now over. It was a great success.

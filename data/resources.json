@@ -79,7 +79,12 @@
         },
         {
           "text": "GDG DevFest Switzerland 2017",
-          "url": "http://devfest.ch/2017",
+          "url": "https://2017.devfest.ch/",
+          "newTab": true
+        },
+        {
+          "text": "GDG DevFest Switzerland 2016",
+          "url": "https://2016.devfest.ch/",
           "newTab": true
         }
       ]
@@ -89,12 +94,12 @@
       "links": [
         {
           "text": "TODO Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "https://goo.gl/xXlpwk",
           "newTab": true
         },
         {
           "text": "TODO Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://bit.ly/df16-media",
           "newTab": true
         }
       ]

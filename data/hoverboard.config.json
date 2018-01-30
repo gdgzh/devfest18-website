@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#21A4C4",
+    "backgroundColor": "#21A4C4"
   },
   "firebase": {
     "name": "devfest18ch-master",
@@ -25,17 +25,17 @@
     "indexedDbSession": "devfest18ch"
   },
   "mailchimp": {
-    "url": "TODO https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "TODO b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://devfest.us15.list-manage.com/subscribe/post?u=999a4423bb22ed68664337414&id=559020fe7b",
+    "name": "999a4423bb22ed68664337414_559020fe7b"
   },
   "dateFormat": {
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "devfest18",
-  "disqusShortName": "TODO hoverboard-gdg-x",
+  "disqusShortName": "devfest-ch-18",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "TODO http://bit.ly/df16-sponsor",
+  "partnershipProposition": "TODO https://goo.gl/xXlpwk",
   "videosSessionsUrl": "TODO https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
@@ -111,7 +111,7 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#21A4C4",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
