@@ -1,0 +1,639 @@
+{
+  "partners": [
+    {
+      "title": "Template Creator",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164",
+          "width": 170
+        }
+      ]
+    },
+    {
+      "title": "Diamond Partners",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl": "../images/logos/gdg-x.svg",
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x"
+        }
+      ]
+    },
+    {
+      "title": "Platinum Partners",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl": "../images/logos/gdg-x.svg",
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x"
+        }
+      ]
+    },
+    {
+      "title": "Gold Partners",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl": "../images/logos/gdg-x.svg",
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x"
+        }
+      ]
+    },
+    {
+      "title": "Silver Partners",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl": "../images/logos/gdg-x.svg",
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x"
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2018-10-20",
+      "dateReadable": "October 20",
+      "timeslots": [
+        {
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "sessions": [[992]]
+        },
+        {
+          "startTime": "10:00",
+          "endTime": "10:15",
+          "sessions": [[996]]
+        },
+        {
+          "startTime": "10:15",
+          "endTime": "11:00",
+          "sessions": [[999]]
+        },
+        {
+          "startTime": "11:00",
+          "endTime": "11:40",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "11:50",
+          "endTime": "12:30",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "12:30",
+          "endTime": "14:00",
+          "sessions": [[993]]
+        },
+        {
+          "startTime": "14:00",
+          "endTime": "14:40",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "14:50",
+          "endTime": "15:30",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "15:30",
+          "endTime": "16:00",
+          "sessions": [[994]]
+        },
+        {
+          "startTime": "16:00",
+          "endTime": "16:40",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "16:50",
+          "endTime": "17:30",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "17:40",
+          "endTime": "18:20",
+          "sessions": [[777], [777]]
+        },
+        {
+          "startTime": "18:30",
+          "endTime": "22:30",
+          "sessions": [[997]]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Main hall"
+        },
+        {
+          "title": "Workshops hall"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-21",
+      "dateReadable": "October 21",
+      "timeslots": [
+        {
+          "endTime": "10:10",
+          "sessions": [[995]],
+          "startTime": "09:30"
+        },
+        {
+          "endTime": "10:50",
+          "sessions": [[777], [777]],
+          "startTime": "10:10"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [[777], [777]],
+          "startTime": "11:00"
+        },
+        {
+          "endTime": "12:30",
+          "sessions": [[777], [777]],
+          "startTime": "11:50"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [[993]],
+          "startTime": "12:30"
+        },
+        {
+          "endTime": "14:40",
+          "sessions": [[777], [777]],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "15:30",
+          "sessions": [[777], [777]],
+          "startTime": "14:50"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [[994]],
+          "startTime": "15:30"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Main hall"
+        },
+        {
+          "title": "Workshops hall"
+        }
+      ]
+    }
+  ],
+  "sessions": {
+    "777": {
+      "complexity": "Beginner",
+      "description": "TBA",
+      "id": 777,
+      "language": "English",
+      "presentation":
+        "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers": [1],
+      "tags": ["TBA"],
+      "title": "TBA"
+    },
+    "992": {
+      "description":
+        "Get your badge, coffee, enjoy talking with tech edicts around",
+      "id": 992,
+      "image": "/images/backgrounds/registration.jpg",
+      "title": "Registration & morning Coffee"
+    },
+    "993": {
+      "description": "Foooooooood!",
+      "id": 993,
+      "image": "/images/backgrounds/lunch.jpg",
+      "title": "Lunch"
+    },
+    "994": {
+      "description": "Coffeeeeeee!",
+      "id": 994,
+      "image": "/images/backgrounds/coffee-break.jpg",
+      "title": "Coffee break"
+    },
+    "995": {
+      "description": "Coffeeeeeee!",
+      "id": 995,
+      "image": "/images/backgrounds/morning.jpg",
+      "title": "Morning coffee"
+    },
+    "996": {
+      "description":
+        "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "id": 996,
+      "image": "/images/backgrounds/opening.jpg",
+      "language": "English",
+      "title": "GDG DevFest Switzerland 2018 Opening"
+    },
+    "997": {
+      "description":
+        "Afterparty is a great time to have some fun and meet new people",
+      "id": 997,
+      "image": "/images/backgrounds/party.jpg",
+      "title": "Afterparty & Networking"
+    },
+    "998": {
+      "description":
+        "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "id": 998,
+      "image": "/images/backgrounds/closing.jpg",
+      "title": "Conference closing and contest winners announcements"
+    },
+    "999": {
+      "description": "",
+      "id": 999,
+      "language": "English",
+      "title": "Keynote"
+    }
+  },
+  "speakers": [
+    {
+      "id": 1,
+      "featured": "true",
+      "name": "Marion Schleifer",
+      "title": "Full Stack Developer",
+      "company": "Simplificator",
+      "companyLogo": "/images/logos/simplificator.png",
+      "country": "Zurich, Switzerland",
+      "photoUrl": "/images/people/marion_schleifer.jpg",
+      "shortBio":
+        "Marion changed careers to programming after a language and economics background. Now she is working as a full stack developer at Simplificator in Zürich. In her free time, she spends a lot of time to teach people (especially women) to program.",
+      "bio":
+        "Marion changed careers to programming after a language and economics background. Now she is working as a full stack developer at Simplificator in Zürich. In her free time, she spends a lot of time to teach people (especially women) to program. She co-founded a free weekly programming course for women and takes the matter of gender inequality in technology in her own hands.",
+      "tags": ["WTM"],
+      "badges": [
+        {
+          "name": "WTM",
+          "description": "Women Techmakers Switzerland",
+          "link": "https://www.womentechmakers.com"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/rubydwarf"
+        },
+        {
+          "icon": "linkedin",
+          "name": "LindedIn",
+          "link": "https://www.linkedin.com/in/marion-schleifer"
+        },
+        {
+          "icon": "github",
+          "name": "Github",
+          "link": "https://github.com/marionschleifer"
+        }
+      ]
+    }
+  ],
+  "team": [
+    {
+      "title": "Core Team",
+      "members": [
+        {
+          "name": "Michel Racic",
+          "title": "Finances",
+          "photoUrl": "/images/people/michel_racic.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://google.com/+MichelRacic",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/rac2030",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/michel-racic",
+              "name": "Linkedin"
+            }
+          ]
+        },
+        {
+          "name": "Madlaina Kalunder",
+          "title": "WTM Zürich",
+          "photoUrl": "/images/people/madlaina_kalunder.png",
+          "socials": [
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/anialdam"
+            },
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/madlaina-kalunder"
+            },
+            {
+              "icon": "github",
+              "name": "Github",
+              "link": "https://github.com/Aadjou"
+            },
+            {
+              "icon": "website",
+              "name": "Website",
+              "link": "https://madlaina.li/"
+            }
+          ]
+        },
+        {
+          "name": "Patrice Müller",
+          "title": "Location & Food",
+          "photoUrl": "/images/people/patrice_mueller.png",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+PatriceM%C3%BCller",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/mueller.patrice",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bacchus_zh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link":
+                "https://www.linkedin.com/in/patrice-m%C3%BCller-504149113/",
+              "name": "LinkedIn"
+            }
+          ]
+        },
+        {
+          "name": "Jean-Baptiste Clion",
+          "title": "Sponsors",
+          "photoUrl": "/images/people/jean-baptiste_clion.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+JeanBaptisteClionBasel",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/jbclion",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JBaptisteClion",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
+              "name": "LinkedIn"
+            }
+          ]
+        },
+        {
+          "name": "Lukas Elmer",
+          "title": "Website",
+          "photoUrl": "/images/people/lukas_elmer.jpg",
+          "socials": [
+            {
+              "icon": "github",
+              "link": "https://github.com/lukaselmer",
+              "name": "GitHub"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/lukaselmer",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/lukaselmer",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/elmer.lukas",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Marion Schleifer",
+          "title": "Happyness & Fun",
+          "photoUrl": "/images/people/marion_schleifer.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/rubydwarf"
+            },
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/marion-schleifer"
+            },
+            {
+              "icon": "github",
+              "name": "Github",
+              "link": "https://github.com/marionschleifer"
+            }
+          ]
+        },
+        {
+          "name": "Christof Büchi",
+          "title": "Photos",
+          "photoUrl": "/images/people/christof_buechi.jpg",
+          "socials": [
+            {
+              "icon": "github",
+              "link": "https://github.com/ChristofBuechi",
+              "name": "GitHub"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ChristofBuechi",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/christofbuechi",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://www.christofbuechi.ch/",
+              "name": "Website"
+            }
+          ]
+        },
+        {
+          "name": "Renato Stauffer",
+          "title": "Social Media",
+          "photoUrl": "/images/people/renato_stauffer.jpg",
+          "socials": [
+            {
+              "icon": "github",
+              "link": "https://github.com/reni99",
+              "name": "GitHub"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/renatostauffer",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/renato-stauffer-609b53b7",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "http://renatostauffer.ch/",
+              "name": "Website"
+            }
+          ]
+        },
+        {
+          "name": "Iulia-Alexandra Lungu",
+          "title": "WTM Zürich",
+          "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/iulialexandralungu"
+            },
+            {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/iulialexandra"
+            },
+            {
+              "icon": "website",
+              "name": "Website",
+              "link": "https://www.ini.uzh.ch/people/iulialexandra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Theme Organizers",
+      "members": [
+        {
+          "name": "TODO TODO",
+          "photoUrl": "/images/people/todo.jpg",
+          "socials": [],
+          "title": "Theming"
+        }
+      ]
+    }
+  ],
+  "tickets": {
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 25,
+        "currency": " CHF",
+        "starts": "February 1",
+        "ends": "September 30",
+        "info": "Requires valid student ID",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 99,
+        "currency": " CHF",
+        "starts": "February 1",
+        "ends": "September 30",
+        "info": "Or first 100 tickets",
+        "soldOut": false
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 119,
+        "currency": " CHF",
+        "starts": "February 1",
+        "ends": "October 21",
+        "soldOut": false
+      }
+    ],
+    "url": "https://www.meetup.com/GDG-Zurich/"
+  },
+  "videos": [
+    {
+      "youtubeId": "gCrDvDz_EH4",
+      "title": "How to convince organization to adopt a new technology",
+      "thumbnail": "http://i3.ytimg.com/vi/gCrDvDz_EH4/hqdefault.jpg",
+      "speakers": "Daria Mühlethaler"
+    },
+    {
+      "youtubeId": "kSnAfVVSYoI",
+      "title": "Animations for a better user experience",
+      "thumbnail": "http://i3.ytimg.com/vi/kSnAfVVSYoI/hqdefault.jpg",
+      "speakers": "Lorica Claesson"
+    },
+    {
+      "youtubeId": "CIC3P2gg69g",
+      "title": "Artificial Intelligence at Swisscom",
+      "thumbnail": "http://i3.ytimg.com/vi/CIC3P2gg69g/hqdefault.jpg",
+      "speakers": "Andrea Hossmann"
+    },
+    {
+      "youtubeId": "HbyyIrjBpTc",
+      "title": "An introduction to TensorFlow",
+      "thumbnail": "http://i3.ytimg.com/vi/HbyyIrjBpTc/hqdefault.jpg",
+      "speakers": "Mihaela Rosca"
+    },
+    {
+      "youtubeId": "HBCxDiaWPPA",
+      "title": "Limbic system using Tensorflow",
+      "thumbnail": "http://i3.ytimg.com/vi/HBCxDiaWPPA/hqdefault.jpg",
+      "speakers": "Gema Parreño Piqueras"
+    },
+    {
+      "youtubeId": "-c8sTdp9nuc",
+      "title": "How Docker revolutionized the IT landscape",
+      "thumbnail": "http://i3.ytimg.com/vi/-c8sTdp9nuc/hqdefault.jpg",
+      "speakers": "Vadim Bauer"
+    },
+    {
+      "youtubeId": "DZwrA8pxq58",
+      "title": "Rosie: clean use case framework",
+      "thumbnail": "http://i3.ytimg.com/vi/DZwrA8pxq58/hqdefault.jpg",
+      "speakers": "Jorge Barroso"
+    }
+  ]
+}
