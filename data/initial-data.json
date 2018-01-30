@@ -1,17 +1,6 @@
 {
   "partners": [
     {
-      "title": "Template Creator",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164",
-          "width": 170
-        }
-      ]
-    },
-    {
       "title": "Diamond Partners",
       "logos": [
         {
@@ -68,6 +57,17 @@
           "logoUrl": "../images/logos/gdg-x.svg",
           "name": "GDG[x]",
           "url": "https://github.com/gdg-x"
+        }
+      ]
+    },
+    {
+      "title": "Template Creator",
+      "logos": [
+        {
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164",
+          "width": 170
         }
       ]
     }
@@ -369,7 +369,7 @@
         },
         {
           "name": "Patrice Müller",
-          "title": "Location & Food",
+          "title": "Lead, Location, Food & Drinks",
           "photoUrl": "/images/people/patrice_mueller.png",
           "socials": [
             {
@@ -397,7 +397,7 @@
         },
         {
           "name": "Jean-Baptiste Clion",
-          "title": "Sponsors",
+          "title": "Sponsors & Code of Conduct",
           "photoUrl": "/images/people/jean-baptiste_clion.jpg",
           "socials": [
             {
@@ -451,7 +451,7 @@
         },
         {
           "name": "Marion Schleifer",
-          "title": "Happyness & Fun",
+          "title": "Finances & Gadgets",
           "photoUrl": "/images/people/marion_schleifer.jpg",
           "socials": [
             {
