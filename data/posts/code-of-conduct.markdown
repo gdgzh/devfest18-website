@@ -50,3 +50,4 @@ We expect all community participants to abide by this Code of Conduct in all com
 # 7. Contact info
 
 - Jean-Baptiste Clion, +41 76 576 36 13, [jean-baptiste.clion@devfest.ch](mailto:jean-baptiste.clion@devfest.ch)
+- Marion Schleifer, +41 79 265 53 51, [marion.schleifer@gmail.com](mailto:marion.schleifer@gmail.com)
