@@ -88,12 +88,12 @@
         </template>
       </div>
       <div class="details">{$ ticketsDetails $}</div>
-      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-        <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
-      </a>
       <div class="not-enough-money">
         {$ notEnoughMoney $}
       </div>
+      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
+      </a>
     </div>
 
   </template>
