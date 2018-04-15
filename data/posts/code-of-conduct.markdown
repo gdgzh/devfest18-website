@@ -41,7 +41,7 @@ The following actions are considered harassment and are unacceptable within our 
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 # 6. Scope
 
