@@ -580,24 +580,19 @@
           ]
         },
         {
-          "name": "Cécile - tbq",
+          "name": "Cécile Hefti",
           "title": "Swags",
-          "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
           "socials": [
             {
               "icon": "linkedin",
               "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/iulialexandralungu"
+              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
             },
             {
-              "icon": "github",
-              "name": "GitHub",
-              "link": "https://github.com/iulialexandra"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://www.ini.uzh.ch/people/iulialexandra"
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
             }
           ]
         },
