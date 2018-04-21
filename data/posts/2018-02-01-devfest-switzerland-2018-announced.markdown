@@ -15,7 +15,7 @@ So hurry up to book tickets to the Lviv, cultural capital of Ukraine as you’ll
 
 [Google Developer Group Lviv](http://lviv.gdg.org.ua/) (GDG Lviv) in conjunction with the Google development groups from all over Ukraine. GDG aims to share experiences and gain new knowledge. Each group - is open to all community of developers that create exciting projects and share their experience with passion about Google technologies.
 
-By the way, it’s pleasure to announce that [call for papers](https://docs.google.com/forms/d/1rNGi2oPOAZ84mKkL5ccDYUEp93cO0RJ4GZZ-NTmtkYg/viewform) is opened! Apply and share with us your knowledge and experience.
+By the way, it’s pleasure to announce that [call for papers](https://goo.gl/forms/vsSHHKix1xJmAWsK2) is opened! Apply and share with us your knowledge and experience.
 
 Also, watch our **highlight video from DevFest 2015**
 

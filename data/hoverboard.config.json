@@ -98,12 +98,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/u/0/+GDGSwitzerland",
+    "albumUrl": "https://goo.gl/photos/cU4x8XuSTFqD87ri8",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/gallery-1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/gallery-2.jpg",
+        "/images/backgrounds/gallery-3.jpg"
       ]
     }
   },
