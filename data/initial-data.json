@@ -319,8 +319,36 @@
       "title": "Core Team",
       "members": [
         {
+          "name": "Patrice Müller",
+          "title": "Lead, Sponsors, Finance, Catering, Venue",
+          "photoUrl": "/images/people/patrice_mueller.png",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+PatriceM%C3%BCller",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/mueller.patrice",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bacchus_zh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link":
+              "https://www.linkedin.com/in/patrice-m%C3%BCller-504149113/",
+              "name": "LinkedIn"
+            }
+          ]
+        },
+        {
           "name": "Michel Racic",
-          "title": "Finances",
+          "title": "Badges, Swags & Playground",
           "photoUrl": "/images/people/michel_racic.jpg",
           "socials": [
             {
@@ -329,20 +357,25 @@
               "name": "Google+"
             },
             {
-              "icon": "twitter",
-              "link": "https://twitter.com/rac2030",
-              "name": "Twitter"
+              "icon": "github",
+              "name": "Github",
+              "link": "github.com/rac2030"
             },
             {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/michel-racic",
               "name": "Linkedin"
+            },
+            {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://rac.su/"
             }
           ]
         },
         {
           "name": "Madlaina Kalunder",
-          "title": "WTM Zürich",
+          "title": "Media & Advertising",
           "photoUrl": "/images/people/madlaina_kalunder.png",
           "socials": [
             {
@@ -368,36 +401,8 @@
           ]
         },
         {
-          "name": "Patrice Müller",
-          "title": "Lead, Location, Food & Drinks",
-          "photoUrl": "/images/people/patrice_mueller.png",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/u/0/+PatriceM%C3%BCller",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/mueller.patrice",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/bacchus_zh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link":
-                "https://www.linkedin.com/in/patrice-m%C3%BCller-504149113/",
-              "name": "LinkedIn"
-            }
-          ]
-        },
-        {
           "name": "Jean-Baptiste Clion",
-          "title": "Sponsors & Code of Conduct",
+          "title": "Speakers",
           "photoUrl": "/images/people/jean-baptiste_clion.jpg",
           "socials": [
             {
@@ -451,7 +456,7 @@
         },
         {
           "name": "Marion Schleifer",
-          "title": "Finances & Gadgets",
+          "title": "Sponsors & Finances",
           "photoUrl": "/images/people/marion_schleifer.jpg",
           "socials": [
             {
@@ -473,7 +478,7 @@
         },
         {
           "name": "Christof Büchi",
-          "title": "Photos",
+          "title": "Photos, Venue & Accommodation",
           "photoUrl": "/images/people/christof_buechi.jpg",
           "socials": [
             {
@@ -500,7 +505,7 @@
         },
         {
           "name": "Renato Stauffer",
-          "title": "Social Media",
+          "title": "Media & Advertising",
           "photoUrl": "/images/people/renato_stauffer.jpg",
           "socials": [
             {
@@ -526,8 +531,35 @@
           ]
         },
         {
+          "name": "Jacques Supcik",
+          "title": "Speakers",
+          "photoUrl": "/images/people/jacques_supcik.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://ch.linkedin.com/in/supcik"
+            },
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+JacquesSupcik",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/supcik"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/jacques.supcik"
+            }
+          ]
+        },
+        {
           "name": "Iulia-Alexandra Lungu",
-          "title": "WTM Zürich",
+          "title": "Volunteers & helpers",
           "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
           "socials": [
             {
@@ -544,6 +576,45 @@
               "icon": "website",
               "name": "Website",
               "link": "https://www.ini.uzh.ch/people/iulialexandra"
+            }
+          ]
+        },
+        {
+          "name": "Cécile Hefti",
+          "title": "Swags",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
+            },
+            {
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
+            }
+          ]
+        },
+        {
+          "name": "Vadim Bauer",
+          "title": "Recording",
+          "photoUrl": "/images/people/vadim_bauer.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+VadimBauer",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/vad1mo"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/vadim.bauer"
             }
           ]
         }
