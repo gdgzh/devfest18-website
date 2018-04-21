@@ -665,6 +665,30 @@
   },
   "videos": [
     {
+      "youtubeId": "CujttolLRdk",
+      "title": "GDG DevFest Switzerland Keynote 2017",
+      "thumbnail": "https://i3.ytimg.com/vi/CujttolLRdk/hqdefault.jpg",
+      "speakers": "Jean-Baptiste Clion"
+    },
+    {
+      "youtubeId": "Juz63Vbideo",
+      "title": "Building a community-driven robo-advisor platform",
+      "thumbnail": "https://i3.ytimg.com/vi/Juz63Vbideo/hqdefault.jpg",
+      "speakers": "Dorian Tanase"
+    },
+    {
+      "youtubeId": "UwcrApj31Pw",
+      "title": "Introduction to SRE at Google",
+      "thumbnail": "https://i3.ytimg.com/vi/UwcrApj31Pw/hqdefault.jpg",
+      "speakers": "Hendrike Peetz"
+    },
+    {
+      "youtubeId": "ojeFtdr3h5s",
+      "title": "GDG DevFest Switzerland 2016",
+      "thumbnail": "https://i3.ytimg.com/vi/ojeFtdr3h5s/hqdefault.jpg",
+      "speakers": "Many"
+    },
+    {
       "youtubeId": "gCrDvDz_EH4",
       "title": "How to convince organization to adopt a new technology",
       "thumbnail": "https://i3.ytimg.com/vi/gCrDvDz_EH4/hqdefault.jpg",

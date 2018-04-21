@@ -116,9 +116,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Switzerland 2016",
-          "youtubeId": "ojeFtdr3h5s",
-          "text": "See how it was in 2016"
+          "title": "GDG DevFest Switzerland Keynote 2017",
+          "youtubeId": "CujttolLRdk",
+          "text": "See the keynote of 2017"
         },
         "hideLogo": true,
         "minHeight": "360px"
