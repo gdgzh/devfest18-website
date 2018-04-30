@@ -2,72 +2,23 @@
   "partners": [
     {
       "title": "Diamond Partners",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
+      "logos": []
     },
     {
       "title": "Platinum Partners",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
+      "logos": []
     },
     {
       "title": "Gold Partners",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
+      "logos": []
     },
     {
-      "title": "Silver Partners",
+      "title": "Location Partner",
       "logos": [
         {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
-    },
-    {
-      "title": "Template Creator",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164",
-          "width": 170
+          "logoUrl": "../images/logos/hsr.jpg",
+          "name": "HSR",
+          "url": "https://www.hsr.ch"
         }
       ]
     }
@@ -277,39 +228,34 @@
     {
       "id": 1,
       "featured": "true",
-      "name": "Marion Schleifer",
-      "title": "Full Stack Developer",
-      "company": "Simplificator",
-      "companyLogo": "/images/logos/simplificator.png",
-      "country": "Zurich, Switzerland",
-      "photoUrl": "/images/people/marion_schleifer.jpg",
+      "name": "TBA",
+      "title": "TBA title",
+      "company": "TBA company",
+      "companyLogo": "/images/logos/hsr.jpg",
+      "country": "TBA",
+      "photoUrl": "/images/people/you.jpg",
       "shortBio":
-        "Marion changed careers to programming after a language and economics background. Now she is working as a full stack developer at Simplificator in Zürich. In her free time, she spends a lot of time to teach people (especially women) to program.",
+        "TBA short bio",
       "bio":
-        "Marion changed careers to programming after a language and economics background. Now she is working as a full stack developer at Simplificator in Zürich. In her free time, she spends a lot of time to teach people (especially women) to program. She co-founded a free weekly programming course for women and takes the matter of gender inequality in technology in her own hands.",
-      "tags": ["WTM"],
+        "TBA bio",
+      "tags": ["TBA"],
       "badges": [
         {
-          "name": "WTM",
-          "description": "Women Techmakers Switzerland",
-          "link": "https://www.womentechmakers.com"
+          "name": "TBA",
+          "description": "TBA",
+          "link": "https://devfest.ch"
         }
       ],
       "socials": [
         {
           "icon": "twitter",
           "name": "Twitter",
-          "link": "https://twitter.com/rubydwarf"
-        },
-        {
-          "icon": "linkedin",
-          "name": "LindedIn",
-          "link": "https://www.linkedin.com/in/marion-schleifer"
+          "link": "https://twitter.com/gdgzh"
         },
         {
           "icon": "github",
           "name": "Github",
-          "link": "https://github.com/marionschleifer"
+          "link": "https://github.com/gdgzh"
         }
       ]
     }
