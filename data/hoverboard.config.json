@@ -1,5 +1,5 @@
 {
-  "url": "https://devfest18ch-master.firebaseapp.com/",
+  "url": "https://devfest.ch/",
   "startDate": "2018-09-20T09:00:00+01:00",
   "endDate": "2018-09-21T19:00:00+01:00",
   "analytics": {
@@ -36,7 +36,7 @@
   "disqusShortName": "devfest-ch-18",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "TODO https://goo.gl/xXlpwk",
-  "videosSessionsUrl": "TODO https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/channel/UCPHGexu7jKYkPlLX0cPGIpg",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -98,12 +98,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/u/0/+GDGSwitzerland",
+    "albumUrl": "https://goo.gl/photos/cU4x8XuSTFqD87ri8",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/gallery-1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/gallery-2.jpg",
+        "/images/backgrounds/gallery-3.jpg"
       ]
     }
   },
@@ -116,9 +116,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Switzerland 2016",
-          "youtubeId": "ojeFtdr3h5s",
-          "text": "See how it was in 2016"
+          "title": "GDG DevFest Switzerland Keynote 2017",
+          "youtubeId": "CujttolLRdk",
+          "text": "See the keynote of 2017"
         },
         "hideLogo": true,
         "minHeight": "360px"

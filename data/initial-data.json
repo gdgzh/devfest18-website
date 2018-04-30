@@ -2,72 +2,23 @@
   "partners": [
     {
       "title": "Diamond Partners",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
+      "logos": []
     },
     {
       "title": "Platinum Partners",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
+      "logos": []
     },
     {
       "title": "Gold Partners",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
+      "logos": []
     },
     {
-      "title": "Silver Partners",
+      "title": "Location Partner",
       "logos": [
         {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ]
-    },
-    {
-      "title": "Template Creator",
-      "logos": [
-        {
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164",
-          "width": 170
+          "logoUrl": "../images/logos/hsr.jpg",
+          "name": "HSR",
+          "url": "https://www.hsr.ch"
         }
       ]
     }
@@ -277,39 +228,34 @@
     {
       "id": 1,
       "featured": "true",
-      "name": "Marion Schleifer",
-      "title": "Full Stack Developer",
-      "company": "Simplificator",
-      "companyLogo": "/images/logos/simplificator.png",
-      "country": "Zurich, Switzerland",
-      "photoUrl": "/images/people/marion_schleifer.jpg",
+      "name": "TBA",
+      "title": "TBA title",
+      "company": "TBA company",
+      "companyLogo": "/images/logos/hsr.jpg",
+      "country": "TBA",
+      "photoUrl": "/images/people/you.jpg",
       "shortBio":
-        "Marion changed careers to programming after a language and economics background. Now she is working as a full stack developer at Simplificator in Zürich. In her free time, she spends a lot of time to teach people (especially women) to program.",
+        "TBA short bio",
       "bio":
-        "Marion changed careers to programming after a language and economics background. Now she is working as a full stack developer at Simplificator in Zürich. In her free time, she spends a lot of time to teach people (especially women) to program. She co-founded a free weekly programming course for women and takes the matter of gender inequality in technology in her own hands.",
-      "tags": ["WTM"],
+        "TBA bio",
+      "tags": ["TBA"],
       "badges": [
         {
-          "name": "WTM",
-          "description": "Women Techmakers Switzerland",
-          "link": "https://www.womentechmakers.com"
+          "name": "TBA",
+          "description": "TBA",
+          "link": "https://devfest.ch"
         }
       ],
       "socials": [
         {
           "icon": "twitter",
           "name": "Twitter",
-          "link": "https://twitter.com/rubydwarf"
-        },
-        {
-          "icon": "linkedin",
-          "name": "LindedIn",
-          "link": "https://www.linkedin.com/in/marion-schleifer"
+          "link": "https://twitter.com/gdgzh"
         },
         {
           "icon": "github",
           "name": "Github",
-          "link": "https://github.com/marionschleifer"
+          "link": "https://github.com/gdgzh"
         }
       ]
     }
@@ -319,8 +265,36 @@
       "title": "Core Team",
       "members": [
         {
+          "name": "Patrice Müller",
+          "title": "Lead, Sponsors, Finance, Catering, Venue",
+          "photoUrl": "/images/people/patrice_mueller.png",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+PatriceM%C3%BCller",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/mueller.patrice",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/bacchus_zh",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link":
+              "https://www.linkedin.com/in/patrice-m%C3%BCller-504149113/",
+              "name": "LinkedIn"
+            }
+          ]
+        },
+        {
           "name": "Michel Racic",
-          "title": "Finances",
+          "title": "Badges, Swags & Playground",
           "photoUrl": "/images/people/michel_racic.jpg",
           "socials": [
             {
@@ -329,20 +303,25 @@
               "name": "Google+"
             },
             {
-              "icon": "twitter",
-              "link": "https://twitter.com/rac2030",
-              "name": "Twitter"
+              "icon": "github",
+              "name": "Github",
+              "link": "github.com/rac2030"
             },
             {
               "icon": "linkedin",
               "link": "https://www.linkedin.com/in/michel-racic",
               "name": "Linkedin"
+            },
+            {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://rac.su/"
             }
           ]
         },
         {
           "name": "Madlaina Kalunder",
-          "title": "WTM Zürich",
+          "title": "Media & Advertising",
           "photoUrl": "/images/people/madlaina_kalunder.png",
           "socials": [
             {
@@ -368,36 +347,8 @@
           ]
         },
         {
-          "name": "Patrice Müller",
-          "title": "Lead, Location, Food & Drinks",
-          "photoUrl": "/images/people/patrice_mueller.png",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/u/0/+PatriceM%C3%BCller",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/mueller.patrice",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/bacchus_zh",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link":
-                "https://www.linkedin.com/in/patrice-m%C3%BCller-504149113/",
-              "name": "LinkedIn"
-            }
-          ]
-        },
-        {
           "name": "Jean-Baptiste Clion",
-          "title": "Sponsors & Code of Conduct",
+          "title": "Speakers",
           "photoUrl": "/images/people/jean-baptiste_clion.jpg",
           "socials": [
             {
@@ -451,7 +402,7 @@
         },
         {
           "name": "Marion Schleifer",
-          "title": "Finances & Gadgets",
+          "title": "Sponsors & Finances",
           "photoUrl": "/images/people/marion_schleifer.jpg",
           "socials": [
             {
@@ -473,7 +424,7 @@
         },
         {
           "name": "Christof Büchi",
-          "title": "Photos",
+          "title": "Photos, Venue & Accommodation",
           "photoUrl": "/images/people/christof_buechi.jpg",
           "socials": [
             {
@@ -500,7 +451,7 @@
         },
         {
           "name": "Renato Stauffer",
-          "title": "Social Media",
+          "title": "Media & Advertising",
           "photoUrl": "/images/people/renato_stauffer.jpg",
           "socials": [
             {
@@ -526,8 +477,35 @@
           ]
         },
         {
+          "name": "Jacques Supcik",
+          "title": "Speakers",
+          "photoUrl": "/images/people/jacques_supcik.png",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://ch.linkedin.com/in/supcik"
+            },
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/u/0/+JacquesSupcik",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/supcik"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/jacques.supcik"
+            }
+          ]
+        },
+        {
           "name": "Iulia-Alexandra Lungu",
-          "title": "WTM Zürich",
+          "title": "Volunteers & helpers",
           "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
           "socials": [
             {
@@ -546,17 +524,45 @@
               "link": "https://www.ini.uzh.ch/people/iulialexandra"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Theme Organizers",
-      "members": [
+        },
         {
-          "name": "TODO TODO",
-          "photoUrl": "/images/people/todo.jpg",
-          "socials": [],
-          "title": "Theming"
+          "name": "Cécile Hefti",
+          "title": "Swags",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
+            },
+            {
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
+            }
+          ]
+        },
+        {
+          "name": "Vadim Bauer",
+          "title": "Recording",
+          "photoUrl": "/images/people/vadim_bauer.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+VadimBauer",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/vad1mo"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/vadim.bauer"
+            }
+          ]
         }
       ]
     }
@@ -593,6 +599,30 @@
     "url": "https://www.meetup.com/GDG-Zurich/"
   },
   "videos": [
+    {
+      "youtubeId": "CujttolLRdk",
+      "title": "GDG DevFest Switzerland Keynote 2017",
+      "thumbnail": "https://i3.ytimg.com/vi/CujttolLRdk/hqdefault.jpg",
+      "speakers": "Jean-Baptiste Clion"
+    },
+    {
+      "youtubeId": "Juz63Vbideo",
+      "title": "Building a community-driven robo-advisor platform",
+      "thumbnail": "https://i3.ytimg.com/vi/Juz63Vbideo/hqdefault.jpg",
+      "speakers": "Dorian Tanase"
+    },
+    {
+      "youtubeId": "UwcrApj31Pw",
+      "title": "Introduction to SRE at Google",
+      "thumbnail": "https://i3.ytimg.com/vi/UwcrApj31Pw/hqdefault.jpg",
+      "speakers": "Hendrike Peetz"
+    },
+    {
+      "youtubeId": "ojeFtdr3h5s",
+      "title": "GDG DevFest Switzerland 2016",
+      "thumbnail": "https://i3.ytimg.com/vi/ojeFtdr3h5s/hqdefault.jpg",
+      "speakers": "Many"
+    },
     {
       "youtubeId": "gCrDvDz_EH4",
       "title": "How to convince organization to adopt a new technology",

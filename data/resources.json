@@ -5,9 +5,10 @@
   "dates": "October 20-21, 2018",
   "locationAddressShort": "Rapperswil, Switzerland",
   "motto": "The biggest conference on Google technologies in Switzerland organized by GDG CH. All about machine learning, programming, emerging technologies and much more!",
-  "playIcon": "See how it was in 2016 (TODO?: 2017)",
+  "playIcon": "See the keynote of 2017",
   "c4p": "Become a speaker",
   "buyTicket": "Buy ticket",
+  "notEnoughMoney": "Cannot afford a ticket, but would like to attend? Please drop us a short email to info@devfest.ch, so we can get in contact with you.",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
@@ -98,8 +99,8 @@
           "newTab": true
         },
         {
-          "text": "TODO Media Kit",
-          "url": "https://bit.ly/df16-media",
+          "text": "Media Kit",
+          "url": "https://drive.google.com/drive/folders/1bI9FpjkPolxiozo-DvMtL_-S0XFk_bRx?usp=sharing",
           "newTab": true
         }
       ]
@@ -130,7 +131,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest Switzerland 2016",
-    "videoId": "ojeFtdr3h5s"
+    "videoTitle": "GDG DevFest Switzerland Keynote 2017",
+    "videoId": "CujttolLRdk"
   }
 }
