@@ -1,5 +1,5 @@
 {
-  "url": "https://devfest18ch-master.firebaseapp.com/",
+  "url": "https://devfest.ch/",
   "startDate": "2018-09-20T09:00:00+01:00",
   "endDate": "2018-09-21T19:00:00+01:00",
   "analytics": {
@@ -36,7 +36,7 @@
   "disqusShortName": "devfest-ch-18",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "TODO https://goo.gl/xXlpwk",
-  "videosSessionsUrl": "TODO https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/channel/UCPHGexu7jKYkPlLX0cPGIpg",
   "enableSessionsRating": true,
   "navigation": [
     {
