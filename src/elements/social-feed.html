@@ -106,6 +106,8 @@
 
         _postsChanged: function () {
           var index = this._selected;
+          this.text = 'GDG WTM DevFest 2018 announced 🎉 Get your tickets now at devfest.ch!'
+          this.author = 'GDGSwitzerland';
           if (this._posts && this._posts.length > 0) {
             this._selected = (++index % this._posts.length);
             this.author = this._posts[this._selected].user.screen_name;
