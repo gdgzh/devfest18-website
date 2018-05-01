@@ -573,7 +573,7 @@
         "name": "student-ticket",
         "price": 25,
         "currency": " CHF",
-        "starts": "February 1",
+        "starts": "May 1",
         "ends": "September 30",
         "info": "Requires valid student ID",
         "soldOut": false
@@ -582,7 +582,7 @@
         "name": "early-ticket",
         "price": 99,
         "currency": " CHF",
-        "starts": "February 1",
+        "starts": "May 1",
         "ends": "September 30",
         "info": "Or first 100 tickets",
         "soldOut": false
@@ -591,12 +591,12 @@
         "name": "lazy-ticket",
         "price": 119,
         "currency": " CHF",
-        "starts": "February 1",
+        "starts": "May 1",
         "ends": "October 21",
         "soldOut": false
       }
     ],
-    "url": "https://www.meetup.com/GDG-Zurich/"
+    "url": "https://www.eventbrite.com/e/devfest-2018-tickets-45157555464#tickets"
   },
   "videos": [
     {
