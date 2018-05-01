@@ -570,33 +570,41 @@
   "tickets": {
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 25,
+        "name": "Student",
+        "price": 45,
         "currency": " CHF",
-        "starts": "February 1",
+        "starts": "May 1",
         "ends": "September 30",
         "info": "Requires valid student ID",
         "soldOut": false
       },
       {
-        "name": "early-ticket",
-        "price": 99,
+        "name": "Early-Bird",
+        "price": 50,
         "currency": " CHF",
-        "starts": "February 1",
+        "starts": "May 1",
         "ends": "September 30",
-        "info": "Or first 100 tickets",
+        "info": "Or first 50 tickets",
         "soldOut": false
       },
       {
-        "name": "lazy-ticket",
-        "price": 119,
+        "name": "Normal",
+        "price": 75,
         "currency": " CHF",
-        "starts": "February 1",
+        "starts": "May 1",
+        "ends": "October 21",
+        "soldOut": false
+      },
+      {
+        "name": "I ❤️ GDG",
+        "price": 95,
+        "currency": " CHF",
+        "starts": "May 1",
         "ends": "October 21",
         "soldOut": false
       }
     ],
-    "url": "https://www.meetup.com/GDG-Zurich/"
+    "url": "https://www.eventbrite.com/e/devfest-2018-tickets-45157555464#tickets"
   },
   "videos": [
     {
