@@ -32,10 +32,10 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "devfest18",
+  "hashtag": "dfch18",
   "disqusShortName": "devfest-ch-18",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "TODO https://goo.gl/xXlpwk",
+  "partnershipProposition": "https://docs.google.com/presentation/d/1hf62s9XGujlK-F9OVOoJklQ2XczzEekGK4udeiUBWEs/edit?usp=sharing",
   "videosSessionsUrl": "https://www.youtube.com/channel/UCPHGexu7jKYkPlLX0cPGIpg",
   "enableSessionsRating": true,
   "navigation": [
