@@ -7,11 +7,24 @@
 
 ## Deployment
 
-Deployment is automated using Travis CI. See [the deployment docs](/docs/tutorials/deploy.md) for details.
+The deployment is automated using Travis CI. The branching model is using git flow, see [1](https://nvie.com/posts/a-successful-git-branching-model/) and [2](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow). In short:
+
+```sh
+# install git, see https://github.com/nvie/gitflow/wiki/Installation
+git checkout master
+git pull
+git checkout develop
+git pull
+git flow release start '<release version, e.g. 1.2.3>'
+git flow release finish '<release version, e.g. 1.2.3>'
+git push --follow-tags
+```
+
+For more details how the deployment works and what is deployed see [the deployment docs](/docs/tutorials/deploy.md).
+
+# Project Hoverboard Docs
 
 ![preview-web](https://cloud.githubusercontent.com/assets/2954281/17777476/5dbbbe1c-6569-11e6-9cc4-77185ae9bf92.png)
-
-# Project Hoverboard
 
 [![Join the chat at https://gitter.im/gdg-x/hoverboard](https://badges.gitter.im/gdg-x/hoverboard.svg)](https://gitter.im/gdg-x/hoverboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgdg-x%2Fhoverboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgdg-x%2Fhoverboard?ref=badge_shield)
