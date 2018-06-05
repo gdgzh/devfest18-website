@@ -7,7 +7,7 @@
 
 ## Deployment
 
-The deployment is automated using Travis CI. The branching model is using git flow, see [1](https://nvie.com/posts/a-successful-git-branching-model/) and [2](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow). In short:
+The deployment is automated using Travis CI. The branching model is using git flow, please read [[1](https://nvie.com/posts/a-successful-git-branching-model/), [2](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)]. In short:
 
 ```sh
 # install git, see https://github.com/nvie/gitflow/wiki/Installation
