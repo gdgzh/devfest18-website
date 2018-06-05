@@ -2,8 +2,8 @@
 
 ## Website Live Versions
 
-[Master](https://devfest18ch-master.firebaseapp.com/)
-[Develop](https://devfest18ch-develop.firebaseapp.com/)
+* [Master branch](https://devfest18ch-master.firebaseapp.com/)
+* [Develop branch](https://devfest18ch-develop.firebaseapp.com/)
 
 ## Deployment
 
