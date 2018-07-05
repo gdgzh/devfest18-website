@@ -91,6 +91,23 @@
 
     <div class="container">
       <h4 class="heading">{$ featuredPeopleTitle $}</h4>
+      <p>
+        We can already guarantee that we will have some amazing speakers!
+        We are currently waiting for more proposals, so that we can select
+        the best speakers for you. As soon as we have decided which speakers
+        to invite, we will publish them here.
+      </p>
+      <div class="text-center" style="margin: 45px 0;">
+        <a href="http://bit.ly/dfch18-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
+          <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">
+            We are still looking for more speakers - submit a proposal now
+          </paper-button>
+        </a>
+      </div>
+    </div>
+
+    <div class="container" style="display: none;">
+      <h4 class="heading">{$ featuredPeopleTitle $}</h4>
       <div class="people-wrapper">
         <template is="dom-repeat" items="[[featuredPeople]]" as="person">
           <a href$="/speakers/[[person.id]]" class="person">
