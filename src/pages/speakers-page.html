@@ -180,7 +180,23 @@
                pattern="/:speakerId"
                data="{{routeData}}"></app-route>
 
-    <div class="container speakers-container">
+    <div class="container">
+      <p>
+        We can already guarantee that we will have some amazing speakers!
+        We are currently waiting for more proposals, so that we can select
+        the best speakers for you. As soon as we have decided which speakers
+        to invite, we will publish them here.
+      </p>
+      <div class="text-center" style="margin: 45px 0;">
+        <a href="/blog/posts/c4p-time/" class="style-scope header-content" style="color: white; ">
+          <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">
+            We are still looking for more speakers - submit a proposal now
+          </paper-button>
+        </a>
+      </div>
+    </div>
+
+    <div class="container speakers-container" style="display: none">
       <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
