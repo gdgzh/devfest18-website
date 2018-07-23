@@ -59,12 +59,12 @@ window.ENV = 'dev';
   "home": {
     "headerSettings": {
       "backgroundColor": "#FF9800",
-      "backgroundImage": "/images/backgrounds/home.png",
+      "backgroundImage": "/images/backgrounds/galaxy-bg.png",
       "fontColor": "#fff",
       "tabBarColor": "#fff",
       // data only applicable for the home page
       "video": {
-        "title": "GDG DevFest Ukraine 2016",
+        "title": "GDG DevFest Ukraine 201",
         "youtubeId": "DfMnJAzOFng",
         "text": "See how it was in 2015"
       },
