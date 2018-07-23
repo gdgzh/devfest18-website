@@ -2,7 +2,13 @@
   "partners": [
     {
       "title": "Diamond Partners",
-      "logos": []
+      "logos": [
+        {
+          "logoUrl": "../images/logos/erni.png",
+          "name": "ERNI",
+          "url": "https://www.erni.ch"
+        }
+      ]
     },
     {
       "title": "Platinum Partners",
