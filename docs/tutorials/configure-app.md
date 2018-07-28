@@ -64,7 +64,7 @@ window.ENV = 'dev';
       "tabBarColor": "#fff",
       // data only applicable for the home page
       "video": {
-        "title": "GDG DevFest Ukraine 201",
+        "title": "GDG DevFest Ukraine 2016",
         "youtubeId": "DfMnJAzOFng",
         "text": "See how it was in 2015"
       },
