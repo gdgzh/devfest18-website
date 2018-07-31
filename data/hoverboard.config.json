@@ -121,7 +121,11 @@
           "text": "See the keynote of 2017"
         },
         "hideLogo": true,
-        "minHeight": "360px"
+        "minHeightNarrow": "460px",
+        "minHeightWide": "560px",
+        "backgroundSlogan": [
+          "DON’T", "PANIC"
+        ]
       }
     },
     "blog": {
