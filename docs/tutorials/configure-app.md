@@ -59,12 +59,12 @@ window.ENV = 'dev';
   "home": {
     "headerSettings": {
       "backgroundColor": "#FF9800",
-      "backgroundImage": "/images/backgrounds/galaxy-bg.png",
+      "backgroundImage": "/images/backgrounds/home.png",
       "fontColor": "#fff",
       "tabBarColor": "#fff",
       // data only applicable for the home page
       "video": {
-        "title": "GDG DevFest Ukraine 201",
+        "title": "GDG DevFest Ukraine 2016",
         "youtubeId": "DfMnJAzOFng",
         "text": "See how it was in 2015"
       },
@@ -122,21 +122,21 @@ This configs reflects in `toolbar-block.html` and `drawer-block.html`
 "tweetsSource": "/data/tweets.json",
 ```
 To make it more dynamic use [Tweetledee](http://chrissimpkins.github.io/tweetledee/)
-which provides ready-bake PHP files that allow you to access Twitter user 
+which provides ready-bake PHP files that allow you to access Twitter user
 timelines, user favorites, lists, home timelines, and tweet search data in a JSON.
 ```
 "tweetsSource": "https://<YOUR_APP>.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
 ```
 You can install Tweetledee on [Heroku](https://www.heroku.com/).
-Download the latest version of Tweetledee; unzip and deploy on their server.  
-**Note:** don't forget to enable CORS, changing `$TLD_JS = 0;` to `$TLD_JS = 1;`.  
+Download the latest version of Tweetledee; unzip and deploy on their server.
+**Note:** don't forget to enable CORS, changing `$TLD_JS = 0;` to `$TLD_JS = 1;`.
 Read [full documentation](http://chrissimpkins.github.io/tweetledee/) on the official website.
 
 Or you can upload the files to a server hosting any website in the public_html directory and use the link pointing to the files in your tweetSource.
 ```
 "tweetsSource": "http://domain/tweetledee/favoritesjson.php?c=10&cache_interval=8000",
 ```
-Add 
+Add
 ```
 header("Access-Control-Allow-Origin: *");
 ```
