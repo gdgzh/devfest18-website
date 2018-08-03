@@ -36,7 +36,8 @@
 
     <style include="shared-styles">
       :host {
-        --min-header-height: 120px;
+        --min-header-height-narrow: 120px;
+        --min-header-height-wide: 360px;
         --header-background: var(--default-primary-color);
         display: block;
       }
@@ -82,12 +83,13 @@
       }
 
       .main-content {
-        padding-top: calc(var(--min-header-height) + 64px);
+        padding-top: calc(var(--min-header-height-narrow) + 64px);
       }
 
-      @media (min-width: 601px) {
+      @media (min-width: 651px) {
         .main-content {
-          padding-top: 424px;
+          padding-top: calc(var(--min-header-height-wide) + 64px);
+          /* padding-top: 424px; */
         }
       }
     </style>
@@ -296,7 +298,8 @@
           this.customStyle['--header-background-gradient'] = 'linear-gradient(to bottom, ' +
             this.app.headerSettings.backgroundColor + ' 0%, rgba(0, 0, 0, 0) 35%, ' +
             this.app.headerSettings.backgroundColor + ' 140%)';
-          this.customStyle['--min-header-height'] = this.app.headerSettings.minHeight;
+          this.customStyle['--min-header-height-narrow'] = this.app.headerSettings.minHeightNarrow;
+          this.customStyle['--min-header-height-wide'] = this.app.headerSettings.minHeightWide;
           document.getElementsByName('theme-color')[0].content = this.app.headerSettings.backgroundColor;
 
           window.requestAnimationFrame(function () {

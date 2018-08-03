@@ -9,6 +9,8 @@
 <link rel="import" href="../styles/shared-styles.html">
 <link rel="import" href="animatable-content.html">
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web:900">
+
 
 <dom-module id="header-content">
 
@@ -33,8 +35,8 @@
       }
 
       app-toolbar {
-        min-height: var(--min-header-height, 120px);
-        max-height: 360px;
+        min-height: var(--min-header-height-narrow, 120px);
+        max-height: var(--min-header-height-wide, 360px);
       }
 
       .container {
@@ -80,13 +82,13 @@
       }
 
       .motto {
-        margin-top: 20px;
-        font-size: 20px;
-        line-height: 1;
+        margin-top: 10px;
+        font-size: 16px;
+        /* line-height: 1; */
       }
 
       .action-buttons {
-        margin-top: 40px;
+        margin-top: 20px;
       }
 
       paper-button {
@@ -106,7 +108,22 @@
         margin-right: 5px;
       }
 
-      @media (min-width: 601px) {
+      .background-slogan {
+        position: absolute;
+        font-family: 'Titillium Web', sans-serif;
+        color: rgb(171, 0, 2);
+        font-weight: bold;
+        -webkit-text-stroke-width: 3px;
+        -webkit-text-stroke-color: rgb(218, 163, 40);
+
+        font-size: 56px;
+        bottom: 5px;
+        right: 0;
+        line-height: 1.1;
+        letter-spacing: 4px;
+      }
+
+      @media (min-width: 651px) {
         .container {
           padding-bottom: 40px;
         }
@@ -117,10 +134,28 @@
         }
 
         app-toolbar {
-          min-height: 360px;
+          min-height: var(--min-header-height-wide, 360px);
+        }
+
+        .background-slogan {
+          -webkit-text-stroke-width: 7px;
+          font-size: 100px;
+          bottom: 23px;
+          right: 60px;
+          line-height: 1.2;
+          letter-spacing: 7px;
         }
       }
 
+      @media (min-width: 1050px) {
+        .background-slogan {
+          font-size: 130px;
+          bottom: 23px;
+          right: 60px;
+          line-height: 1.2;
+          letter-spacing: 7px;
+        }
+      }
     </style>
 
     <app-toolbar>
@@ -143,6 +178,13 @@
               </div>
             </div>
           </div>
+          {% if pages.home.headerSettings.backgroundSlogan %}
+            <div class="background-slogan">
+              {% for word in pages.home.headerSettings.backgroundSlogan %}
+                {$ word $}<br/>
+              {% endfor %}
+            </div>
+          {% endif %}
         </animatable-content>
         <animatable-content name="blog">
           <div class="container">
@@ -198,8 +240,12 @@
             behavior: 'smooth',
             target: HOVERBOARD.Elements.Scroller
           });
-        }
+        },
 
+        _backgroundSloganLines: function () {
+          alert(`{ $ pages.home.headerSettings.backgroundSlogan $}`);
+          return `{ $ pages.home.headerSettings.backgroundSlogan $}`.split('\n')
+        }
       });
 
     }());

@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#21A4C4",
-    "backgroundColor": "#21A4C4"
+    "themeColor": "#032d54",
+    "backgroundColor": "#032d54"
   },
   "firebase": {
     "name": "devfest18ch-master",
@@ -111,8 +111,8 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#21A4C4",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#032d54",
+        "backgroundImage": "/images/backgrounds/galaxy-bg.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -121,7 +121,11 @@
           "text": "See the keynote of 2017"
         },
         "hideLogo": true,
-        "minHeight": "360px"
+        "minHeightNarrow": "460px",
+        "minHeightWide": "560px",
+        "backgroundSlogan": [
+          "DON’T", "PANIC"
+        ]
       }
     },
     "blog": {
