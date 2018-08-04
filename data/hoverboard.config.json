@@ -1,5 +1,5 @@
 {
-  "url": "https://devfest18ch-master.firebaseapp.com/",
+  "url": "https://devfest.ch/",
   "startDate": "2018-09-20T09:00:00+01:00",
   "endDate": "2018-09-21T19:00:00+01:00",
   "analytics": {
@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#21A4C4",
-    "backgroundColor": "#21A4C4"
+    "themeColor": "#032d54",
+    "backgroundColor": "#032d54"
   },
   "firebase": {
     "name": "devfest18ch-master",
@@ -32,11 +32,11 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "devfest18",
+  "hashtag": "dfch18",
   "disqusShortName": "devfest-ch-18",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "TODO https://goo.gl/xXlpwk",
-  "videosSessionsUrl": "TODO https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "partnershipProposition": "https://docs.google.com/presentation/d/1hf62s9XGujlK-F9OVOoJklQ2XczzEekGK4udeiUBWEs/edit?usp=sharing",
+  "videosSessionsUrl": "https://www.youtube.com/channel/UCPHGexu7jKYkPlLX0cPGIpg",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -69,7 +69,7 @@
     {
       "name": "gplus",
       "nickname": "107142112628085156329",
-      "url": "https://plus.google.com/u/0/+GDGSwitzerland"
+      "url": "https://google.com/+GDGSwitzerland"
     },
     {
       "name": "facebook",
@@ -111,8 +111,8 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#21A4C4",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#032d54",
+        "backgroundImage": "/images/backgrounds/galaxy-bg.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -121,7 +121,11 @@
           "text": "See the keynote of 2017"
         },
         "hideLogo": true,
-        "minHeight": "360px"
+        "minHeightNarrow": "460px",
+        "minHeightWide": "560px",
+        "backgroundSlogan": [
+          "DON’T", "PANIC"
+        ]
       }
     },
     "blog": {

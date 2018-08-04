@@ -1,0 +1,1 @@
+GDG DevFest Switzerland 2018 has been announced! The 3th edition of the biggest community conference about Google technologies in Switzerland will take on **October 20-21** in [HSR Rapperswil](https://www.hsr.ch).
