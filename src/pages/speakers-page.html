@@ -171,8 +171,16 @@
         height: 25px;
       }
 
-      speaker-details {
-        min-height: 300px;
+      @media (min-width: 769px) and (max-height: 300px) {
+        speaker-details {
+          min-height: 300px;
+        }
+      }
+
+      @media (min-width: 769px) and (min-height: 301px) and (max-height: 550px) {
+        speaker-details {
+          min-height: 100%;
+        }
       }
     </style>
 
