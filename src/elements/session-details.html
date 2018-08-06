@@ -99,11 +99,12 @@
     </app-indexeddb-mirror>
 
     <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal>
-      <paper-toolbar class="tall">
+      <paper-toolbar class="tall" style="background: url([[session.image]]);">
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
-          <iron-image class="fallback-image" src="/images/logo-white.svg"
-                      alt="{$ title $}"></iron-image>
+          <template is="dom-if" if="[[!session.image]]">
+            <iron-image style="width: 100%; height: 100%;" sizing="contain" src="/images/logo-white.svg" alt="{$ title $}"></iron-image>
+          </template>
         </div>
       </paper-toolbar>
       <div class="content">
