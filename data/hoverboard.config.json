@@ -132,6 +132,7 @@
       "title": "Blog",
       "headerSettings": {
         "backgroundColor": "#03a9f4",
+        "backgroundImage": "/images/backgrounds/galaxy-bg-secondary.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -140,6 +141,7 @@
       "title": "Speakers",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/galaxy-bg-secondary.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -148,6 +150,7 @@
       "title": "Schedule",
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/galaxy-bg-secondary.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -156,6 +159,7 @@
       "title": "Team",
       "headerSettings": {
         "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/galaxy-bg-secondary.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
