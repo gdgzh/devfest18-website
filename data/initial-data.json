@@ -478,33 +478,6 @@
       "title": "Supporters",
       "members": [
         {
-          "name": "Madlaina Kalunder",
-          "title": "Supporter",
-          "photoUrl": "/images/people/madlaina_kalunder.png",
-          "socials": [
-            {
-              "icon": "twitter",
-              "name": "Twitter",
-              "link": "https://twitter.com/anialdam"
-            },
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/madlaina-kalunder"
-            },
-            {
-              "icon": "github",
-              "name": "Github",
-              "link": "https://github.com/Aadjou"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://madlaina.li/"
-            }
-          ]
-        },
-        {
           "name": "Jean-Baptiste Clion",
           "title": "Supporter",
           "photoUrl": "/images/people/jean-baptiste_clion.jpg",
@@ -528,28 +501,6 @@
               "icon": "linkedin",
               "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
               "name": "LinkedIn"
-            }
-          ]
-        },
-        {
-          "name": "Iulia-Alexandra Lungu",
-          "title": "Supporter",
-          "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/iulialexandralungu"
-            },
-            {
-              "icon": "github",
-              "name": "GitHub",
-              "link": "https://github.com/iulialexandra"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://www.ini.uzh.ch/people/iulialexandra"
             }
           ]
         },
