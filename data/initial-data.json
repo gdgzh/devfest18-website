@@ -234,34 +234,34 @@
     {
       "id": 1,
       "featured": "true",
-      "name": "TBA",
-      "title": "TBA title",
+      "name": "Edward Medvedev",
+      "title": "Google Developer Expert",
       "company": "TBA company",
       "companyLogo": "/images/logos/hsr.jpg",
-      "country": "TBA",
-      "photoUrl": "/images/people/you.svg",
+      "country": "Germany/Siberia",
+      "photoUrl": "/images/people/speakers/ed_medvedev.jpeg",
       "shortBio":
         "TBA short bio",
       "bio":
-        "TBA bio",
-      "tags": ["TBA"],
-      "badges": [
-        {
-          "name": "TBA",
-          "description": "TBA",
-          "link": "https://devfest.ch"
-        }
-      ],
+        "Ed loves to teach other people things about stuff! By day he writes code, organizes conferences, mentors tech communities, and learns how to be more efficient at knowledge transfer. By night he spends countless hours designing Blacklight, an alternate reality game for aspiring hackers.",
+      "tags": ["Speaker"],
+//      "badges": [
+//        {
+//          "name": "TBA",
+//          "description": "TBA",
+//          "link": "https://devfest.ch"
+//        }
+//      ],
       "socials": [
         {
           "icon": "twitter",
           "name": "Twitter",
-          "link": "https://twitter.com/gdgzh"
+          "link": "https://twitter.com/ohaithear"
         },
         {
           "icon": "github",
           "name": "Github",
-          "link": "https://github.com/gdgzh"
+          "link": "https://github.com/emedvedev"
         }
       ]
     }
