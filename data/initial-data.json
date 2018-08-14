@@ -429,6 +429,51 @@
           ]
         },
         {
+          "name": "Cécile Hefti",
+          "title": "Design, Speakers",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
+            },
+            {
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
+            }
+          ]
+        },
+        {
+          "name": "Katarina Sheremet",
+          "title": "Diverse",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/katarina-sheremet/"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/katarina.sheremet"
+            },
+            {
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "title": "Supporters",
+      "members": [
+        {
           "name": "Jacques Supcik",
           "title": "Miscellaneous",
           "photoUrl": "/images/people/jacques_supcik.png",
@@ -452,55 +497,6 @@
               "icon": "facebook",
               "name": "Facebook",
               "link": "https://www.facebook.com/jacques.supcik"
-            }
-          ]
-        },
-        {
-          "name": "Cécile Hefti",
-          "title": "Design, Speakers",
-          "photoUrl": "/images/people/cecile_hefti.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
-            },
-            {
-              "icon": "instagram",
-              "name": "Instagram",
-              "link": "https://www.instagram.com/dreamy_dev/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Supporters",
-      "members": [
-        {
-          "name": "Jean-Baptiste Clion",
-          "title": "Supporter",
-          "photoUrl": "/images/people/jean-baptiste_clion.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/u/0/+JeanBaptisteClionBasel",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/jbclion",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/JBaptisteClion",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
-              "name": "LinkedIn"
             }
           ]
         },
