@@ -456,14 +456,19 @@
               "link": "https://www.linkedin.com/in/katarina-sheremet/"
             },
             {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/kate_sheremet"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/ksheremet",
+              "name": "GitHub"
+            },
+            {
               "icon": "facebook",
               "name": "Facebook",
               "link": "https://www.facebook.com/katarina.sheremet"
-            },
-            {
-              "icon": "instagram",
-              "name": "Instagram",
-              "link": "https://www.instagram.com/dreamy_dev/"
             }
           ]
         }
