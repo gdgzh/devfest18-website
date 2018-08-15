@@ -326,60 +326,6 @@
           ]
         },
         {
-          "name": "Madlaina Kalunder",
-          "title": "Media & Advertising",
-          "photoUrl": "/images/people/madlaina_kalunder.png",
-          "socials": [
-            {
-              "icon": "twitter",
-              "name": "Twitter",
-              "link": "https://twitter.com/anialdam"
-            },
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/madlaina-kalunder"
-            },
-            {
-              "icon": "github",
-              "name": "Github",
-              "link": "https://github.com/Aadjou"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://madlaina.li/"
-            }
-          ]
-        },
-        {
-          "name": "Jean-Baptiste Clion",
-          "title": "Speakers",
-          "photoUrl": "/images/people/jean-baptiste_clion.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/u/0/+JeanBaptisteClionBasel",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/jbclion",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/JBaptisteClion",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
-              "name": "LinkedIn"
-            }
-          ]
-        },
-        {
           "name": "Lukas Elmer",
           "title": "Website",
           "photoUrl": "/images/people/lukas_elmer.jpg",
@@ -430,7 +376,7 @@
         },
         {
           "name": "Christof Büchi",
-          "title": "Photos, Venue & Accommodation",
+          "title": "Photos, Venue, Speakers & Accommodation",
           "photoUrl": "/images/people/christof_buechi.jpg",
           "socials": [
             {
@@ -483,8 +429,58 @@
           ]
         },
         {
+          "name": "Cécile Hefti",
+          "title": "Design, Speakers",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
+            },
+            {
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
+            }
+          ]
+        },
+        {
+          "name": "Katarina Sheremet",
+          "title": "Miscellaneous",
+          "photoUrl": "/images/people/katarina_sheremet.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/katarina-sheremet/"
+            },
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/kate_sheremet"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/ksheremet",
+              "name": "GitHub"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/katarina.sheremet"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "title": "Supporters",
+      "members": [
+        {
           "name": "Jacques Supcik",
-          "title": "Speakers",
+          "title": "Miscellaneous",
           "photoUrl": "/images/people/jacques_supcik.png",
           "socials": [
             {
@@ -510,47 +506,8 @@
           ]
         },
         {
-          "name": "Iulia-Alexandra Lungu",
-          "title": "Volunteers & helpers",
-          "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/iulialexandralungu"
-            },
-            {
-              "icon": "github",
-              "name": "GitHub",
-              "link": "https://github.com/iulialexandra"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://www.ini.uzh.ch/people/iulialexandra"
-            }
-          ]
-        },
-        {
-          "name": "Cécile Hefti",
-          "title": "Swags",
-          "photoUrl": "/images/people/cecile_hefti.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
-            },
-            {
-              "icon": "instagram",
-              "name": "Instagram",
-              "link": "https://www.instagram.com/dreamy_dev/"
-            }
-          ]
-        },
-        {
           "name": "Vadim Bauer",
-          "title": "Recording",
+          "title": "Supporter",
           "photoUrl": "/images/people/vadim_bauer.jpg",
           "socials": [
             {
