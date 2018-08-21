@@ -35,77 +35,59 @@
       "dateReadable": "October 20",
       "timeslots": [
         {
-          "startTime": "09:00",
-          "endTime": "10:00",
+          "startTime": "08:30",
+          "endTime": "09:15",
           "sessions": [[992]]
         },
         {
-          "startTime": "10:00",
-          "endTime": "10:15",
+          "startTime": "09:15",
+          "endTime": "9:30",
           "sessions": [[996]]
         },
         {
-          "startTime": "10:15",
-          "endTime": "11:00",
+          "startTime": "09:30",
+          "endTime": "10:15",
           "sessions": [[999]]
         },
         {
-          "startTime": "11:00",
-          "endTime": "11:40",
-          "sessions": [[777], [777]]
+          "startTime": "10:30",
+          "endTime": "11:15",
+          "sessions": [[777]]
         },
         {
-          "startTime": "11:50",
-          "endTime": "12:30",
-          "sessions": [[777], [777]]
+          "startTime": "11:30",
+          "endTime": "12:15",
+          "sessions": [[777]]
         },
         {
           "startTime": "12:30",
-          "endTime": "14:00",
+          "endTime": "13:30",
           "sessions": [[993]]
         },
         {
-          "startTime": "14:00",
-          "endTime": "14:40",
-          "sessions": [[777], [777]]
+          "startTime": "13:30",
+          "endTime": "14:15",
+          "sessions": [[777]]
         },
         {
-          "startTime": "14:50",
-          "endTime": "15:30",
-          "sessions": [[777], [777]]
+          "startTime": "14:30",
+          "endTime": "15:15",
+          "sessions": [[777]]
         },
         {
           "startTime": "15:30",
-          "endTime": "16:00",
-          "sessions": [[994]]
+          "endTime": "16:15",
+          "sessions": [[777]]
         },
         {
-          "startTime": "16:00",
-          "endTime": "16:40",
-          "sessions": [[777], [777]]
-        },
-        {
-          "startTime": "16:50",
-          "endTime": "17:30",
-          "sessions": [[777], [777]]
-        },
-        {
-          "startTime": "17:40",
-          "endTime": "18:20",
-          "sessions": [[777], [777]]
-        },
-        {
-          "startTime": "18:30",
-          "endTime": "22:30",
-          "sessions": [[997]]
+          "startTime": "16:30",
+          "endTime": "17:15",
+          "sessions": [[777]]
         }
       ],
       "tracks": [
         {
           "title": "Main hall"
-        },
-        {
-          "title": "Workshops hall"
         }
       ]
     },
@@ -114,52 +96,54 @@
       "dateReadable": "October 21",
       "timeslots": [
         {
-          "endTime": "10:10",
-          "sessions": [[995]],
-          "startTime": "09:30"
+          "startTime": "08:30",
+          "endTime": "09:30",
+          "sessions": [[995]]
         },
         {
-          "endTime": "10:50",
-          "sessions": [[777], [777]],
-          "startTime": "10:10"
+          "startTime": "09:30",
+          "endTime": "10:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "11:40",
-          "sessions": [[777], [777]],
-          "startTime": "11:00"
+          "startTime": "10:30",
+          "endTime": "11:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "12:30",
-          "sessions": [[777], [777]],
-          "startTime": "11:50"
+          "startTime": "11:30",
+          "endTime": "12:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "14:00",
-          "sessions": [[993]],
-          "startTime": "12:30"
+          "startTime": "12:30",
+          "endTime": "13:30",
+          "sessions": [[993]]
         },
         {
-          "endTime": "14:40",
-          "sessions": [[777], [777]],
-          "startTime": "14:00"
+          "startTime": "13:30",
+          "endTime": "14:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "15:30",
-          "sessions": [[777], [777]],
-          "startTime": "14:50"
+          "startTime": "14:30",
+          "endTime": "15:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "16:00",
-          "sessions": [[994]],
-          "startTime": "15:30"
+          "startTime": "15:30",
+          "endTime": "16:15",
+          "sessions": [[777]]
+        },
+        {
+          "startTime": "16:30",
+          "endTime": "17:15",
+          "sessions": [[994]]
         }
       ],
       "tracks": [
         {
           "title": "Main hall"
-        },
-        {
-          "title": "Workshops hall"
         }
       ]
     }
@@ -226,8 +210,8 @@
       "id": 777,
       "language": "English",
       "presentation":
-        "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers": [1],
+        "",
+      "speakers": [],
       "tags": ["TBA"],
       "title": "TBA"
     },
@@ -353,8 +337,8 @@
       "name": "Sergey Kibish",
       "title": "Software Engineer / Lead",
       "company": "Neueda",
-      "companyLogo": "/images/logos/neueda.png",
-      "country": "Switzerland",
+      "companyLogo": "/images/logos/neueda.jpeg",
+      "country": "Latvia",
       "photoUrl": "/images/people/speakers/sergey_kibish.jpg",
       "shortBio": "",
       "bio":
@@ -411,7 +395,7 @@
     {
       "id": 5,
       "featured": "true",
-      "name": "Jean-baptiste Clion",
+      "name": "Jean-Baptiste Clion",
       "title": "Vice President, Trade Surveillance",
       "company": "Credit Suisse",
       "companyLogo": "/images/logos/credit_suisse.svg",
