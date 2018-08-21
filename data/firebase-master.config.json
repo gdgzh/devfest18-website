@@ -1,0 +1,9 @@
+{
+  "name": "devfest18ch-master",
+  "domain": "devfest18ch-master.firebaseapp.com",
+  "database": "https://devfest18ch-master.firebaseio.com",
+  "api": "AIzaSyAOTEOT09Wk2C-AWztYk2a84EXIUioWyQk",
+  "userSessionsPath": "/userSessions",
+  "ratingsPath": "/ratings",
+  "indexedDbSession": "devfest18ch"
+}

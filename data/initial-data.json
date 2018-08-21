@@ -35,77 +35,59 @@
       "dateReadable": "October 20",
       "timeslots": [
         {
-          "startTime": "09:00",
-          "endTime": "10:00",
+          "startTime": "08:30",
+          "endTime": "09:15",
           "sessions": [[992]]
         },
         {
-          "startTime": "10:00",
-          "endTime": "10:15",
+          "startTime": "09:15",
+          "endTime": "9:30",
           "sessions": [[996]]
         },
         {
-          "startTime": "10:15",
-          "endTime": "11:00",
+          "startTime": "09:30",
+          "endTime": "10:15",
           "sessions": [[999]]
         },
         {
-          "startTime": "11:00",
-          "endTime": "11:40",
-          "sessions": [[777], [777]]
+          "startTime": "10:30",
+          "endTime": "11:15",
+          "sessions": [[777]]
         },
         {
-          "startTime": "11:50",
-          "endTime": "12:30",
-          "sessions": [[777], [777]]
+          "startTime": "11:30",
+          "endTime": "12:15",
+          "sessions": [[777]]
         },
         {
           "startTime": "12:30",
-          "endTime": "14:00",
+          "endTime": "13:30",
           "sessions": [[993]]
         },
         {
-          "startTime": "14:00",
-          "endTime": "14:40",
-          "sessions": [[777], [777]]
+          "startTime": "13:30",
+          "endTime": "14:15",
+          "sessions": [[777]]
         },
         {
-          "startTime": "14:50",
-          "endTime": "15:30",
-          "sessions": [[777], [777]]
+          "startTime": "14:30",
+          "endTime": "15:15",
+          "sessions": [[777]]
         },
         {
           "startTime": "15:30",
-          "endTime": "16:00",
-          "sessions": [[994]]
+          "endTime": "16:15",
+          "sessions": [[777]]
         },
         {
-          "startTime": "16:00",
-          "endTime": "16:40",
-          "sessions": [[777], [777]]
-        },
-        {
-          "startTime": "16:50",
-          "endTime": "17:30",
-          "sessions": [[777], [777]]
-        },
-        {
-          "startTime": "17:40",
-          "endTime": "18:20",
-          "sessions": [[777], [777]]
-        },
-        {
-          "startTime": "18:30",
-          "endTime": "22:30",
-          "sessions": [[997]]
+          "startTime": "16:30",
+          "endTime": "17:15",
+          "sessions": [[777]]
         }
       ],
       "tracks": [
         {
           "title": "Main hall"
-        },
-        {
-          "title": "Workshops hall"
         }
       ]
     },
@@ -114,65 +96,122 @@
       "dateReadable": "October 21",
       "timeslots": [
         {
-          "endTime": "10:10",
-          "sessions": [[995]],
-          "startTime": "09:30"
+          "startTime": "08:30",
+          "endTime": "09:30",
+          "sessions": [[995]]
         },
         {
-          "endTime": "10:50",
-          "sessions": [[777], [777]],
-          "startTime": "10:10"
+          "startTime": "09:30",
+          "endTime": "10:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "11:40",
-          "sessions": [[777], [777]],
-          "startTime": "11:00"
+          "startTime": "10:30",
+          "endTime": "11:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "12:30",
-          "sessions": [[777], [777]],
-          "startTime": "11:50"
+          "startTime": "11:30",
+          "endTime": "12:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "14:00",
-          "sessions": [[993]],
-          "startTime": "12:30"
+          "startTime": "12:30",
+          "endTime": "13:30",
+          "sessions": [[993]]
         },
         {
-          "endTime": "14:40",
-          "sessions": [[777], [777]],
-          "startTime": "14:00"
+          "startTime": "13:30",
+          "endTime": "14:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "15:30",
-          "sessions": [[777], [777]],
-          "startTime": "14:50"
+          "startTime": "14:30",
+          "endTime": "15:15",
+          "sessions": [[777]]
         },
         {
-          "endTime": "16:00",
-          "sessions": [[994]],
-          "startTime": "15:30"
+          "startTime": "15:30",
+          "endTime": "16:15",
+          "sessions": [[777]]
+        },
+        {
+          "startTime": "16:30",
+          "endTime": "17:15",
+          "sessions": [[994]]
         }
       ],
       "tracks": [
         {
           "title": "Main hall"
-        },
-        {
-          "title": "Workshops hall"
         }
       ]
     }
   ],
   "sessions": {
+    "700": {
+      "complexity": "Beginner",
+      "description": "How do people learn? How does our brain decide what to keep and what to throw away? How can we teach new things and make sure they stick? In a talk that brings together technology, education and science, Ed explores the history of teaching and learning from prehistoric times to modern-day schools — borrowing a few neat tricks from video games and interstellar messages in the process.",
+      "id": 700,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [0],
+      "tags": ["Meta"],
+      "title": "How to Teach (Almost) Anything"
+    },
+    "701": {
+      "complexity": "Beginner",
+      "description": "Developers, this is your chance to dive into the World of Hardware! Javascript is already the most used Language on the Web that it makes sense to use it for Robotics as well! Ever more powerful and cheap Microprocessors combined with Javascript Frameworks for Robotics and AI enable to easily build even complex robots that integrate machine vision and machine learning.",
+      "id": 701,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [1],
+      "tags": ["ML & AI"],
+      "title": "Javascript Robotics and AI"
+    },
+    "702": {
+      "complexity": "Intermediate",
+      "description": "'Wow, I have not thought about this' - told me one of the colleagues. Golang is a sobering language that refreshes your view on doing things. It shifted our mindset about the usual flow of application development and now there is no way back. During this talk speaker will share his experience of migrating from OOP style applications to the Golang. How view on doing things shifted through time and how it changed development. He will talk about success, struggle and mistakes. After this talk it will be easier for you to convince your friends/colleagues to move to the Golang.",
+      "id": 702,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [2],
+      "tags": ["General Programming"],
+      "title": "Journey from OO language to Golang"
+    },
+    "703": {
+      "complexity": "Beginner",
+      "description": "You will learn how mindfulness helps grow self-awareness, navigate daily obstacles, envision your future and become a leader.",
+      "id": 703,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [3],
+      "tags": ["Meta"],
+      "title": "Role of mindfulness in career"
+    },
+    "704": {
+      "complexity": "Intermediate",
+      "description": "Chatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.",
+      "id": 704,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [4],
+      "tags": ["ML & AI"],
+      "title": "B2B: Leveraging Bot-To-Bot communications"
+    },
     "777": {
       "complexity": "Beginner",
       "description": "TBA",
       "id": 777,
       "language": "English",
       "presentation":
-        "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers": [1],
+        "",
+      "speakers": [],
       "tags": ["TBA"],
       "title": "TBA"
     },
@@ -234,21 +273,20 @@
     {
       "id": 1,
       "featured": "true",
-      "name": "TBA",
-      "title": "TBA title",
-      "company": "TBA company",
-      "companyLogo": "/images/logos/hsr.jpg",
-      "country": "TBA",
-      "photoUrl": "/images/people/you.svg",
-      "shortBio":
-        "TBA short bio",
+      "name": "Edward Medvedev",
+      "title": "Google Developer Expert",
+      "company": "Google Developer Expert",
+      "companyLogo": "",
+      "country": "Germany/Siberia",
+      "photoUrl": "/images/people/speakers/ed_medvedev.jpg",
+      "shortBio": "",
       "bio":
-        "TBA bio",
-      "tags": ["TBA"],
+        "Ed loves to teach other people things about stuff! By day he writes code, organizes conferences, mentors tech communities, and learns how to be more efficient at knowledge transfer. By night he spends countless hours designing Blacklight, an alternate reality game for aspiring hackers.",
+      "tags": ["Speaker"],
       "badges": [
         {
-          "name": "TBA",
-          "description": "TBA",
+          "name": "Meta",
+          "description": "Google Developer Expert",
           "link": "https://devfest.ch"
         }
       ],
@@ -256,12 +294,129 @@
         {
           "icon": "twitter",
           "name": "Twitter",
-          "link": "https://twitter.com/gdgzh"
+          "link": "https://twitter.com/ohaithear"
         },
         {
           "icon": "github",
           "name": "Github",
-          "link": "https://github.com/gdgzh"
+          "link": "https://github.com/emedvedev"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "featured": "true",
+      "name": "Markus Leutwyler",
+      "title": "Chief Nodebotanist",
+      "company": "Fablab Zurich",
+      "companyLogo": "/images/logos/fablab.png",
+      "country": "Switzerland",
+      "photoUrl": "/images/people/speakers/markus_leutwyler.jpg",
+      "shortBio": "",
+      "bio":
+      "Markus is a technical consultant during day time and a maker in his spare time. As a co-founder and regular at FabLab Winterthur, he works on Robotics, IoT and Low-Power Networking. His various interests range from Photography, Multipotentialism to co-working and Music.",
+      "tags": ["Speaker"],
+      "badges": [
+        {
+          "name": "ML & AI",
+          "description": "",
+          "link": "https://devfest.ch"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/twtomcat"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "featured": "true",
+      "name": "Sergey Kibish",
+      "title": "Software Engineer / Lead",
+      "company": "Neueda",
+      "companyLogo": "/images/logos/neueda.jpg",
+      "country": "Latvia",
+      "photoUrl": "/images/people/speakers/sergey_kibish.jpg",
+      "shortBio": "",
+      "bio":
+      "Sergey is a Software Engineer, GDG Riga and Devfest Baltics organizer. Have hands-on experience with different technologies. Can't sit still and don’t do something for a long time. When there is a spare time - enjoy life in a different ways. Don’t be afraid to ask questions.",
+      "tags": ["Speaker"],
+      "badges": [
+        {
+          "name": "General Programming",
+          "description": "",
+          "link": "https://devfest.ch"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/s_kibish"
+        },
+        {
+          "icon": "github",
+          "name": "Github",
+          "link": "https://github.com/skibish"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "featured": "true",
+      "name": "Ekaterina Kamenskaya",
+      "title": "Engineering Productivity Manager, also Google Women in Engineering Lead",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "Switzerland",
+      "photoUrl": "/images/people/speakers/ekaterina_kamenskaya.jpg",
+      "shortBio": "",
+      "bio":
+      "Ekaterina has been working in Google for 10 years helping increase Engineering Productivity and product quality in various teams such as Google Chrome and YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Being passionate in inclusion and education, Ekaterina is leading the internal education community focusing on Googlers‘ learning and development, and also Google Women Engineers community in Zurich. She gives regular talks, mentors, and teaches technical courses, as well as courses for personal development (e.g. Search Inside Yourself).",
+      "tags": ["Speaker"],
+      "badges": [
+        {
+          "name": "Meta",
+          "description": "",
+          "link": "https://devfest.ch"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ekaterina-kamenskaya-78795022/",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "featured": "true",
+      "name": "Jean-Baptiste Clion",
+      "title": "Vice President, Trade Surveillance",
+      "company": "Credit Suisse",
+      "companyLogo": "/images/logos/credit_suisse.svg",
+      "country": "Switzerland",
+      "photoUrl": "/images/people/speakers/jean-baptiste_clion.jpg",
+      "shortBio": "",
+      "bio":
+      "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.",
+      "tags": ["Speaker"],
+      "badges": [
+        {
+          "name": "ML & AI",
+          "description": "",
+          "link": "https://devfest.ch"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/JBaptisteClion"
         }
       ]
     }
@@ -273,7 +428,7 @@
         {
           "name": "Patrice Müller",
           "title": "Lead, Sponsors, Finance, Catering, Venue",
-          "photoUrl": "/images/people/patrice_mueller.png",
+          "photoUrl": "/images/people/patrice_mueller.jpg",
           "socials": [
             {
               "icon": "gplus",
@@ -322,60 +477,6 @@
               "icon": "website",
               "name": "Website",
               "link": "http://rac.su/"
-            }
-          ]
-        },
-        {
-          "name": "Madlaina Kalunder",
-          "title": "Media & Advertising",
-          "photoUrl": "/images/people/madlaina_kalunder.png",
-          "socials": [
-            {
-              "icon": "twitter",
-              "name": "Twitter",
-              "link": "https://twitter.com/anialdam"
-            },
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/madlaina-kalunder"
-            },
-            {
-              "icon": "github",
-              "name": "Github",
-              "link": "https://github.com/Aadjou"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://madlaina.li/"
-            }
-          ]
-        },
-        {
-          "name": "Jean-Baptiste Clion",
-          "title": "Speakers",
-          "photoUrl": "/images/people/jean-baptiste_clion.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/u/0/+JeanBaptisteClionBasel",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/jbclion",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/JBaptisteClion",
-              "name": "Twitter"
-            },
-            {
-              "icon": "linkedin",
-              "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
-              "name": "LinkedIn"
             }
           ]
         },
@@ -430,7 +531,7 @@
         },
         {
           "name": "Christof Büchi",
-          "title": "Photos, Venue & Accommodation",
+          "title": "Photos, Venue, Speakers & Accommodation",
           "photoUrl": "/images/people/christof_buechi.jpg",
           "socials": [
             {
@@ -483,9 +584,59 @@
           ]
         },
         {
+          "name": "Cécile Hefti",
+          "title": "Design, Speakers",
+          "photoUrl": "/images/people/cecile_hefti.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
+            },
+            {
+              "icon": "instagram",
+              "name": "Instagram",
+              "link": "https://www.instagram.com/dreamy_dev/"
+            }
+          ]
+        },
+        {
+          "name": "Katarina Sheremet",
+          "title": "Miscellaneous",
+          "photoUrl": "/images/people/katarina_sheremet.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "name": "LindedIn",
+              "link": "https://www.linkedin.com/in/katarina-sheremet/"
+            },
+            {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/kate_sheremet"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/ksheremet",
+              "name": "GitHub"
+            },
+            {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "https://www.facebook.com/katarina.sheremet"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "title": "Supporters",
+      "members": [
+        {
           "name": "Jacques Supcik",
-          "title": "Speakers",
-          "photoUrl": "/images/people/jacques_supcik.png",
+          "title": "Miscellaneous",
+          "photoUrl": "/images/people/jacques_supcik.jpg",
           "socials": [
             {
               "icon": "linkedin",
@@ -510,47 +661,8 @@
           ]
         },
         {
-          "name": "Iulia-Alexandra Lungu",
-          "title": "Volunteers & helpers",
-          "photoUrl": "/images/people/iulia_alexandra_lungu.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/iulialexandralungu"
-            },
-            {
-              "icon": "github",
-              "name": "GitHub",
-              "link": "https://github.com/iulialexandra"
-            },
-            {
-              "icon": "website",
-              "name": "Website",
-              "link": "https://www.ini.uzh.ch/people/iulialexandra"
-            }
-          ]
-        },
-        {
-          "name": "Cécile Hefti",
-          "title": "Swags",
-          "photoUrl": "/images/people/cecile_hefti.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "name": "LindedIn",
-              "link": "https://www.linkedin.com/in/c%E9cile-hefti"
-            },
-            {
-              "icon": "instagram",
-              "name": "Instagram",
-              "link": "https://www.instagram.com/dreamy_dev/"
-            }
-          ]
-        },
-        {
           "name": "Vadim Bauer",
-          "title": "Recording",
+          "title": "Supporter",
           "photoUrl": "/images/people/vadim_bauer.jpg",
           "socials": [
             {
