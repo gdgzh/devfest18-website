@@ -165,6 +165,61 @@
     }
   ],
   "sessions": {
+    "700": {
+      "complexity": "Beginner",
+      "description": "How do people learn? How does our brain decide what to keep and what to throw away? How can we teach new things and make sure they stick? In a talk that brings together technology, education and science, Ed explores the history of teaching and learning from prehistoric times to modern-day schools — borrowing a few neat tricks from video games and interstellar messages in the process.",
+      "id": 700,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [0],
+      "tags": ["Meta"],
+      "title": "How to Teach (Almost) Anything"
+    },
+    "701": {
+      "complexity": "Beginner",
+      "description": "Developers, this is your chance to dive into the World of Hardware! Javascript is already the most used Language on the Web that it makes sense to use it for Robotics as well! Ever more powerful and cheap Microprocessors combined with Javascript Frameworks for Robotics and AI enable to easily build even complex robots that integrate machine vision and machine learning.",
+      "id": 701,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [1],
+      "tags": ["ML & AI"],
+      "title": "Javascript Robotics and AI"
+    },
+    "702": {
+      "complexity": "Intermediate",
+      "description": "'Wow, I have not thought about this' - told me one of the colleagues. Golang is a sobering language that refreshes your view on doing things. It shifted our mindset about the usual flow of application development and now there is no way back. During this talk speaker will share his experience of migrating from OOP style applications to the Golang. How view on doing things shifted through time and how it changed development. He will talk about success, struggle and mistakes. After this talk it will be easier for you to convince your friends/colleagues to move to the Golang.",
+      "id": 702,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [2],
+      "tags": ["General Programming"],
+      "title": "Journey from OO language to Golang"
+    },
+    "703": {
+      "complexity": "Beginner",
+      "description": "You will learn how mindfulness helps grow self-awareness, navigate daily obstacles, envision your future and become a leader.",
+      "id": 703,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [3],
+      "tags": ["Meta"],
+      "title": "Role of mindfulness in career"
+    },
+    "704": {
+      "complexity": "Intermediate",
+      "description": "Chatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.",
+      "id": 704,
+      "language": "English",
+      "presentation":
+      "",
+      "speakers": [4],
+      "tags": ["ML & AI"],
+      "title": "B2B: Leveraging Bot-To-Bot communications"
+    },
     "777": {
       "complexity": "Beginner",
       "description": "TBA",
@@ -236,8 +291,8 @@
       "featured": "true",
       "name": "Edward Medvedev",
       "title": "Google Developer Expert",
-      "company": "TBA company",
-      "companyLogo": "/images/logos/hsr.jpg",
+      "company": "Google Developer Expert",
+      "companyLogo": "",
       "country": "Germany/Siberia",
       "photoUrl": "/images/people/speakers/ed_medvedev.jpeg",
       "shortBio": "",
@@ -246,8 +301,8 @@
       "tags": ["Speaker"],
       "badges": [
         {
-          "name": "TBA",
-          "description": "TBA",
+          "name": "Meta",
+          "description": "Google Developer Expert",
           "link": "https://devfest.ch"
         }
       ],
@@ -269,8 +324,8 @@
       "featured": "true",
       "name": "Markus Leutwyler",
       "title": "Chief Nodebotanist",
-      "company": "TBA company",
-      "companyLogo": "/images/logos/hsr.jpg",
+      "company": "Fablab Zurich",
+      "companyLogo": "/images/logos/fablab.png",
       "country": "Switzerland",
       "photoUrl": "/images/people/speakers/markus_leutwyler.png",
       "shortBio": "",
@@ -279,8 +334,8 @@
       "tags": ["Speaker"],
       "badges": [
         {
-          "name": "TBA",
-          "description": "TBA",
+          "name": "ML & AI",
+          "description": "",
           "link": "https://devfest.ch"
         }
       ],
@@ -297,8 +352,8 @@
       "featured": "true",
       "name": "Sergey Kibish",
       "title": "Software Engineer / Lead",
-      "company": "TBA company",
-      "companyLogo": "/images/logos/hsr.jpg",
+      "company": "Neueda",
+      "companyLogo": "/images/logos/neueda.png",
       "country": "Switzerland",
       "photoUrl": "/images/people/speakers/sergey_kibish.jpg",
       "shortBio": "",
@@ -307,8 +362,8 @@
       "tags": ["Speaker"],
       "badges": [
         {
-          "name": "TBA",
-          "description": "TBA",
+          "name": "General Programming",
+          "description": "",
           "link": "https://devfest.ch"
         }
       ],
@@ -330,8 +385,8 @@
       "featured": "true",
       "name": "Ekaterina Kamenskaya",
       "title": "Engineering Productivity Manager, also Google Women in Engineering Lead",
-      "company": "TBA company",
-      "companyLogo": "/images/logos/hsr.jpg",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
       "country": "Switzerland",
       "photoUrl": "/images/people/speakers/ekaterina_kamenskaya.jpg",
       "shortBio": "",
@@ -340,8 +395,8 @@
       "tags": ["Speaker"],
       "badges": [
         {
-          "name": "TBA",
-          "description": "TBA",
+          "name": "Meta",
+          "description": "",
           "link": "https://devfest.ch"
         }
       ],
@@ -358,8 +413,8 @@
       "featured": "true",
       "name": "Jean-baptiste Clion",
       "title": "Vice President, Trade Surveillance",
-      "company": "TBA company",
-      "companyLogo": "/images/logos/hsr.jpg",
+      "company": "Credit Suisse",
+      "companyLogo": "/images/logos/credit_suisse.svg",
       "country": "Switzerland",
       "photoUrl": "/images/people/speakers/jean-baptiste_clion.jpg",
       "shortBio": "",
@@ -368,8 +423,8 @@
       "tags": ["Speaker"],
       "badges": [
         {
-          "name": "TBA",
-          "description": "TBA",
+          "name": "ML & AI",
+          "description": "",
           "link": "https://devfest.ch"
         }
       ],
