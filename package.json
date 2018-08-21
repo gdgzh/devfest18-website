@@ -7,7 +7,9 @@
     "bower": "bower",
     "build": "gulp",
     "postinstall": "bower install",
-    "serve": "gulp serve"
+    "serve": "gulp serve",
+    "env:develop": "node build-tools/setenv.js develop",
+    "env:master": "node build-tools/setenv.js master"
   },
   "devDependencies": {
     "bower": "^1.8.2",

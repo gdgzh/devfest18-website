@@ -30,7 +30,11 @@
   },
   "dateFormat": {
     "locale": "en-US",
-    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+    "blog": {
+      "month": "short",
+      "day": "numeric",
+      "year": "numeric"
+    }
   },
   "hashtag": "dfch18",
   "disqusShortName": "devfest-ch-18",
@@ -124,7 +128,8 @@
         "minHeightNarrow": "460px",
         "minHeightWide": "560px",
         "backgroundSlogan": [
-          "DON’T", "PANIC"
+          "DON’T",
+          "PANIC"
         ]
       }
     },
