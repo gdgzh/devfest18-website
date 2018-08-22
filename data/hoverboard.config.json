@@ -16,10 +16,10 @@
     "backgroundColor": "#032d54"
   },
   "firebase": {
-    "name": "devfest18ch-master",
-    "domain": "devfest18ch-master.firebaseapp.com",
-    "database": "https://devfest18ch-master.firebaseio.com",
-    "api": "AIzaSyAOTEOT09Wk2C-AWztYk2a84EXIUioWyQk",
+    "name": "devfest18ch-develop",
+    "domain": "devfest18ch-develop.firebaseapp.com",
+    "database": "https://devfest18ch-develop.firebaseio.com",
+    "api": "AIzaSyCx7qYGYBI-JkXXk9gmJqeaRR9VWsVKS20",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "devfest18ch"
@@ -30,7 +30,11 @@
   },
   "dateFormat": {
     "locale": "en-US",
-    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+    "blog": {
+      "month": "short",
+      "day": "numeric",
+      "year": "numeric"
+    }
   },
   "hashtag": "dfch18",
   "disqusShortName": "devfest-ch-18",
@@ -124,7 +128,8 @@
         "minHeightNarrow": "460px",
         "minHeightWide": "560px",
         "backgroundSlogan": [
-          "DON’T", "PANIC"
+          "DON’T",
+          "PANIC"
         ]
       }
     },

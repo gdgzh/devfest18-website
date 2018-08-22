@@ -40,8 +40,16 @@
         margin-bottom: 64px;
       }
 
-      session-details {
-        min-height: 300px;
+      @media (min-width: 769px) and (max-height: 300px) {
+        session-details {
+          min-height: 300px;
+        }
+      }
+
+      @media (min-width: 769px) and (min-height: 301px) and (max-height: 550px) {
+        session-details {
+          min-height: 100%;
+        }
       }
     </style>
 

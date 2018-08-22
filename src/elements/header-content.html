@@ -84,11 +84,14 @@
       .motto {
         margin-top: 10px;
         font-size: 16px;
-        /* line-height: 1; */
       }
 
       .action-buttons {
         margin-top: 20px;
+      }
+
+      .action-buttons paper-button {
+        background: var(--home-header-button-color);
       }
 
       paper-button {
@@ -116,12 +119,19 @@
         font-weight: bold;
         -webkit-text-stroke-width: 3px;
         -webkit-text-stroke-color: #2ba395;
-
-        font-size: 56px;
-        bottom: 5px;
+        z-index: -1;
+        font-size: 28px;
+        bottom: 8px;
         right: 0;
         line-height: 1.1;
         letter-spacing: 4px;
+      }
+
+      @media (min-width: 350px) {
+        .background-slogan {
+          -webkit-text-stroke-width: 3px;
+          font-size: 56px;
+        }
       }
 
       @media (min-width: 651px) {
@@ -150,7 +160,7 @@
 
       @media (min-width: 1050px) {
         .background-slogan {
-          font-size: 130px;
+          font-size: 120px;
           bottom: 23px;
           right: 60px;
           line-height: 1.2;
