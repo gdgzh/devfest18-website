@@ -157,7 +157,7 @@
       "presentation":
       "",
       "speakers": [0],
-      "tags": ["Meta"],
+      "tags": ["meta", "learning", "education"],
       "title": "How to Teach (Almost) Anything"
     },
     "701": {
@@ -168,7 +168,7 @@
       "presentation":
       "",
       "speakers": [1],
-      "tags": ["ML & AI"],
+      "tags": ["artificial-intelligence", "javascript", "robotics"],
       "title": "Javascript Robotics and AI"
     },
     "702": {
@@ -179,7 +179,7 @@
       "presentation":
       "",
       "speakers": [2],
-      "tags": ["General Programming"],
+      "tags": ["oop", "go"],
       "title": "Journey from OO language to Golang"
     },
     "703": {
@@ -190,7 +190,7 @@
       "presentation":
       "",
       "speakers": [3],
-      "tags": ["Meta"],
+      "tags": ["meta", "leadership", "mindfulness"],
       "title": "Role of mindfulness in career"
     },
     "704": {
@@ -201,7 +201,7 @@
       "presentation":
       "",
       "speakers": [4],
-      "tags": ["ML & AI"],
+      "tags": ["artificial-intelligence", "bots"],
       "title": "B2B: Leveraging Bot-To-Bot communications"
     },
     "777": {
@@ -282,14 +282,8 @@
       "shortBio": "",
       "bio":
         "Ed loves to teach other people things about stuff! By day he writes code, organizes conferences, mentors tech communities, and learns how to be more efficient at knowledge transfer. By night he spends countless hours designing Blacklight, an alternate reality game for aspiring hackers.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Meta",
-          "description": "Google Developer Expert",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["meta", "learning", "education"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -315,14 +309,8 @@
       "shortBio": "",
       "bio":
       "Markus is a technical consultant during day time and a maker in his spare time. As a co-founder and regular at FabLab Winterthur, he works on Robotics, IoT and Low-Power Networking. His various interests range from Photography, Multipotentialism to co-working and Music.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "ML & AI",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["artificial-intelligence", "javascript", "robotics"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -343,14 +331,8 @@
       "shortBio": "",
       "bio":
       "Sergey is a Software Engineer, GDG Riga and Devfest Baltics organizer. Have hands-on experience with different technologies. Can't sit still and don’t do something for a long time. When there is a spare time - enjoy life in a different ways. Don’t be afraid to ask questions.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "General Programming",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["programming-languages", "oop", "go"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -376,14 +358,8 @@
       "shortBio": "",
       "bio":
       "Ekaterina has been working in Google for 10 years helping increase Engineering Productivity and product quality in various teams such as Google Chrome and YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Being passionate in inclusion and education, Ekaterina is leading the internal education community focusing on Googlers‘ learning and development, and also Google Women Engineers community in Zurich. She gives regular talks, mentors, and teaches technical courses, as well as courses for personal development (e.g. Search Inside Yourself).",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Meta",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["meta", "leadership", "mindfulness"],
+      "badges": [],
       "socials": [
         {
           "icon": "linkedin",
@@ -404,14 +380,8 @@
       "shortBio": "",
       "bio":
       "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "ML & AI",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["artificial-intelligence", "bots"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
