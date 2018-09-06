@@ -506,14 +506,8 @@
       "shortBio": "",
       "bio":
       "Nico Martin is a web-developer passionate about the latest frontend technologies and WordPress. And he is always trying to connect both while working mostly on corporate websites for clients, as freelancer and within various open source projects.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Web",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["javascript"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -534,14 +528,8 @@
       "shortBio": "",
       "bio":
       "Wicher is a software architect / developer and a IT consultant at ERNI. He has a background in machine learning and computer-based learning. These days he helps clients transform their application landscape to the cloud and adopt IoT, AR, and AI solutions.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "ML & AI",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["iot"],
+      "badges": [],
       "socials": [
         {
           "icon": "linkedin",
@@ -562,14 +550,8 @@
       "shortBio": "",
       "bio":
       "Coming soon",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Web",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["meta", "learning", "education"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -590,14 +572,8 @@
       "shortBio": "",
       "bio":
       "Henrik Vendelbo learned technology by playing with BASIC as a kid. An Industrial Designer by heart he has spent a lifetime helping teams all over the Western World make Software. He is exploring the edge of how we interact with computing, seeking a more human interface. Living in the age of GUI and Web Documents, he is experimenting with what a 3rd Visual Layout paradigm would look like. Otherwise he is looking into new ways for Solopreneurs to level up their business with technology.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Web",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["javascript", "pwa"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -618,14 +594,8 @@
       "shortBio": "",
       "bio":
       "Coming soon",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Mobile",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["meta", "learning", "education"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -646,14 +616,8 @@
       "shortBio": "",
       "bio":
       "GDE For IoT. Passionate geek for all areas of technology with a strong love for Android and embedded devices. Been working with technology for the last 16 years, where 6 have been with embedded devices and 8 have been with Android, due to that, is really favouring the Android Things, that connect these two technologies.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "IOT",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["iot"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -674,14 +638,8 @@
       "shortBio": "",
       "bio":
       "Iiro is a passionate mobile developer who loves developing robust mobile apps for Android and lately, iOS. He fell in love with Flutter over one year ago and it has been a never ending love story ever since - now he's one of the few Google Developer Experts for Dart & Flutter. Recently, Iiro has been playing with sharing Dart business logic across the web and mobile, and things are quite interesting.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Mobile ",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["mobile", "flutter"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -702,14 +660,8 @@
       "shortBio": "",
       "bio":
       "Laura is a Google Developer Expert, entrepreneur, and mentor. She has been involved in the tech industry over 10 years, working with different technologies as a fullstack developer and getting involved with education projects teaching coding. She is one of the organizers of GDG Cloud London and Women Techmakers lead. Originally from Buenos Aires, Argentina, she has been a digital nomad for about one year, traveling around; doing talks, workshops and connecting with the local tech communities. While she was on the road she created with her co-founders DMode Labs: a software company that promotes diversity and remote working.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Mobile",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["mobile", "firebase"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -730,14 +682,8 @@
       "shortBio": "",
       "bio":
       "Torry Yang is an engineer at Google, where he works to improve the experience of machine learning developers on Google Cloud. Recently, he has worked on Cloud AutoML, BigQuery ML, and Cloud ML Engine.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "ML & AI",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["artificial-intelligence", "education"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
