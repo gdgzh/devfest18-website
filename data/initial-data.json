@@ -688,7 +688,17 @@
         "soldOut": false
       }
     ],
-    "url": "https://www.eventbrite.com/e/devfest-2018-tickets-45157555464#tickets"
+    "url": "https://www.eventbrite.com/e/devfest-2018-tickets-45157555464#tickets",
+    "diversity": {
+      "name": "Diversity",
+      "price": "FREE",
+      "currency": "",
+      "starts": "May 1",
+      "ends": "October 21",
+      "info": "Please click the link below",
+      "soldOut": false,
+      "url": "https://docs.google.com/forms/d/1jGPh6FGXyJcV8o5qiwgraDnvCHYuXOZ8EHbA2LQgWSE"
+    }
   },
   "videos": [
     {
