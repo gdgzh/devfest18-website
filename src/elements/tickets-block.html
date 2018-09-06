@@ -88,12 +88,24 @@
         </template>
       </div>
       <div class="details">{$ ticketsDetails $}</div>
-      <div class="not-enough-money">
-        {$ notEnoughMoney $}
-      </div>
       <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
       </a>
+      <div class="not-enough-money">
+        <ticket-element
+          type="[[app.tickets.diversity.name]]"
+          price="[[app.tickets.diversity.price]]"
+          currency="[[app.tickets.diversity.currency]]"
+          starts="[[app.tickets.diversity.starts]]"
+          ends="[[app.tickets.diversity.ends]]"
+          info="[[app.tickets.diversity.info]]"
+          sold-out="[[app.tickets.diversity.soldOut]]" ,
+          sold-out-text="{$ soldOutTickets $}">
+        </ticket-element>
+        <a href="[[app.tickets.diversity.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+          <paper-button class="buy-button" raised>Apply here</paper-button>
+        </a>
+      </div>
     </div>
 
   </template>
