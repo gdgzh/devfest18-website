@@ -144,7 +144,7 @@
           "startTime": "16:30",
           "endTime": "17:15",
           "sessions": [[700]]
-        },
+        }
       ],
       "tracks": [
         {
@@ -154,7 +154,7 @@
     }
   ],
   "sessions": {
-    "700": {  // Ed Medvedev
+    "700": {
       "complexity": "Beginner",
       "description": "How do people learn? How does our brain decide what to keep and what to throw away? How can we teach new things and make sure they stick? In a talk that brings together technology, education and science, Ed explores the history of teaching and learning from prehistoric times to modern-day schools — borrowing a few neat tricks from video games and interstellar messages in the process.",
       "id": 700,
@@ -165,7 +165,7 @@
       "tags": ["meta", "learning", "education"],
       "title": "How to Teach (Almost) Anything"
     },
-    "701": { // Markus Leutwyler
+    "701": {
       "complexity": "Beginner",
       "description": "Developers, this is your chance to dive into the World of Hardware! Javascript is already the most used Language on the Web that it makes sense to use it for Robotics as well! Ever more powerful and cheap Microprocessors combined with Javascript Frameworks for Robotics and AI enable to easily build even complex robots that integrate machine vision and machine learning.",
       "id": 701,
@@ -176,7 +176,7 @@
       "tags": ["artificial-intelligence", "javascript", "robotics"],
       "title": "Javascript Robotics and AI"
     },
-    "702": { //Sergey Kibish
+    "702": {
       "complexity": "Intermediate",
       "description": "'Wow, I have not thought about this' - told me one of the colleagues. Golang is a sobering language that refreshes your view on doing things. It shifted our mindset about the usual flow of application development and now there is no way back. During this talk speaker will share his experience of migrating from OOP style applications to the Golang. How view on doing things shifted through time and how it changed development. He will talk about success, struggle and mistakes. After this talk it will be easier for you to convince your friends/colleagues to move to the Golang.",
       "id": 702,
@@ -187,7 +187,7 @@
       "tags": ["oop", "go"],
       "title": "Journey from OO language to Golang"
     },
-    "703": { //ekatarina Kamenskaya
+    "703": {
       "complexity": "Beginner",
       "description": "You will learn how mindfulness helps grow self-awareness, navigate daily obstacles, envision your future and become a leader.",
       "id": 703,
@@ -198,7 +198,7 @@
       "tags": ["meta", "leadership", "mindfulness"],
       "title": "Role of mindfulness in career"
     },
-    "704": { //jb
+    "704": {
       "complexity": "Intermediate",
       "description": "Chatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.",
       "id": 704,
@@ -209,7 +209,7 @@
       "tags": ["artificial-intelligence", "bots"],
       "title": "B2B: Leveraging Bot-To-Bot communications"
     },
-    "705": { //nico martin
+    "705": {
       "complexity": "Intermediate",
       "description": "Progressive Web Apps are awesome! There are so many great examples of frontend webapps which completely replace native apps. But what about the 99%? PWA is an awesome concept which should be avaiable for everyone. So I spent a lot of time integrating PWA-features into conventional multi site applications and I also developed the first fully featured progressive web app plugin for WordPress. In this talk I'd like to point out some of the main points about how progressive web app features can be used as an add-on and improve everyone's website.",
       "id": 705,
@@ -220,7 +220,7 @@
       "tags": ["Web"],
       "title": "Progressive Web Apps for everyone"
     },
-    "706": { //Wicher Visser
+    "706": {
       "complexity": "Intermediate",
       "description": "What happens when you put a group of technology enthusiasts together on a Swiss mountain? Their mission, experiment with technologies and create a Minimum Viable Product. Let them self-manage the project from inception to delivery. In this talk, we take that journey with the team. How did the ideation workshop give focus to the product scope? In what way did the collaboration take root? We will look at how an air quality and dust measurement application is created using an IoT sensor network that connects to cloud-hosted infrastructure. The power of machine learning is utilized to forecast next-day air quality. A progressive web app and open-data format makes the information available to the public.",
       "id": 706,
@@ -231,7 +231,7 @@
       "tags": ["Iot"],
       "title": "When the forecast comes out of the box"
     },
-    "707": { //Coming soon
+    "707": {
       "complexity": "Intermediate",
       "description": "Coming soon",
       "id": 707,
@@ -242,7 +242,7 @@
       "tags": ["Web"],
       "title": "Coming soon"
     },
-    "708": { //Henrik Vendelbo
+    "708": {
       "complexity": "Intermediate",
       "description": "Single Page Web Applications used to be rare beasts giving you some of the power of native Applications without having to install anything. Gmail was a revelation and marked the beginning of a decade of moving Enterprise application development to the Modern Web, and adopting rich interactions on the Web. Today most Web Development has turned to Application Development using ecosystems such as React, Vue and Angular. They have become the default way to build a Web Experience. Traditional web pages are being replaced by Single Page Applications, but is that the right medicine. What was so great about the Web to begin with, and how does that match up with what we make today?",
       "id": 708,
@@ -253,7 +253,7 @@
       "tags": ["Web"],
       "title": "The Web We Lost"
     },
-    "709": { //Flutter Placeholder
+    "709": {
       "complexity": "Intermediate",
       "description": "Coming soon",
       "id": 709,
@@ -264,7 +264,7 @@
       "tags": ["Mobile"],
       "title": "Coming soon"
     },
-    "710": { //James Mark Coggan
+    "710": {
       "complexity": "Intermediate",
       "description": "Android Things gives you the ability to connect all your IoT devices! You can write Android apps for Android Things the same way you write your current Android apps (Kotlin or Java). In this hands-on talk you will find out how to connect your Android phone to your home with Firebase. By the end of the session, you’ll know how to send data across from and back to your home, interacting with your devices from anywhere in the world.",
       "id": 710,
@@ -275,7 +275,7 @@
       "tags": ["Iot"],
       "title": "Thingyfy your home with Android Things and Firebase"
     },
-    "711": { // Iiro Krankka
+    "711": {
       "complexity": "Intermediate",
       "description": "Flutter is great for building native apps. PWAs are a great improvement for the mobile web. But what if we could have the best of both worlds? Turns out we can! Learn how to share the maximum amount of code between Flutter and web apps, with tips, tricks and best practices along the way.",
       "id": 711,
@@ -286,7 +286,7 @@
       "tags": ["Web"],
       "title": "The best of both worlds - achieving next-level code sharing between Flutter and the mobile web"
     },
-    "712": { // Laura Morinigo
+    "712": {
       "complexity": "Intermediate",
       "description": "Actions on Google is a developer platform that lets you create software to extend the functionality of the Google Assistant, Google’s virtual personal assistant, across more than 500 million devices, including smart speakers, phones, cars, TVs, headphones, watches, and more. During this talk you are going to learn how to create conversational apps with Google Actions and the features of Firebase.",
       "id": 712,
@@ -297,7 +297,7 @@
       "tags": ["Web"],
       "title": "Creating conversational apps with Google Actions and Firebase"
     },
-    "713": { // Torry Jang
+    "713": {
       "complexity": "Intermediate",
       "description": "Cloud AutoML is a suite of machine learning products that enables developers with limited machine learning expertise to train high-quality models specific to their business needs, by leveraging Google’s state-of-the-art transfer learning and neural architecture search technology. Torry Yang explores the AutoML Vision, Translate, and Natural Language services and demonstrates how powerful and easy they are to use.",
       "id": 713,
@@ -308,7 +308,7 @@
       "tags": ["ML & AI"],
       "title": "Cloud AutoML Competes in Kaggle"
     },
-    "777": { //Placeholder
+    "777": {
       "complexity": "Beginner",
       "description": "TBA",
       "id": 777,
