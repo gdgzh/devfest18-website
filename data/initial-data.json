@@ -701,9 +701,9 @@
         "price": 50,
         "currency": " CHF",
         "starts": "May 1",
-        "ends": "September 30",
+        "ends": "ended",
         "info": "Or first 50 tickets",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "Normal",
