@@ -213,7 +213,7 @@
       "presentation":
       "",
       "speakers": [5],
-      "tags": ["Web"],
+      "tags": ["web"],
       "title": "Progressive Web Apps for everyone"
     },
     "706": {
@@ -224,7 +224,7 @@
       "presentation":
       "",
       "speakers": [6],
-      "tags": ["Iot"],
+      "tags": ["iot"],
       "title": "When the forecast comes out of the box"
     },
     "707": {
@@ -235,7 +235,7 @@
       "presentation":
       "",
       "speakers": [7],
-      "tags": ["Web"],
+      "tags": ["web"],
       "title": "Coming soon"
     },
     "708": {
@@ -246,7 +246,7 @@
       "presentation":
       "",
       "speakers": [8],
-      "tags": ["Web"],
+      "tags": ["web", "javascript", "pwa"],
       "title": "The Web We Lost"
     },
     "709": {
@@ -257,7 +257,7 @@
       "presentation":
       "",
       "speakers": [9],
-      "tags": ["Mobile"],
+      "tags": ["mobile"],
       "title": "Coming soon"
     },
     "710": {
@@ -268,7 +268,7 @@
       "presentation":
       "",
       "speakers": [10],
-      "tags": ["Iot"],
+      "tags": ["iot", "web", "firebase"],
       "title": "Thingyfy your home with Android Things and Firebase"
     },
     "711": {
@@ -279,7 +279,7 @@
       "presentation":
       "",
       "speakers": [11],
-      "tags": ["Web"],
+      "tags": ["mobile", "web"],
       "title": "The best of both worlds - achieving next-level code sharing between Flutter and the mobile web"
     },
     "712": {
@@ -290,7 +290,7 @@
       "presentation":
       "",
       "speakers": [12],
-      "tags": ["Web"],
+      "tags": ["mobile", "firebase"],
       "title": "Creating conversational apps with Google Actions and Firebase"
     },
     "713": {
@@ -301,7 +301,7 @@
       "presentation":
       "",
       "speakers": [13],
-      "tags": ["ML & AI"],
+      "tags": ["artificial-intelligence", "education"],
       "title": "Cloud AutoML Competes in Kaggle"
     },
     "777": {
@@ -502,7 +502,7 @@
       "shortBio": "",
       "bio":
       "Nico Martin is a web-developer passionate about the latest frontend technologies and WordPress. And he is always trying to connect both while working mostly on corporate websites for clients, as freelancer and within various open source projects.",
-      "tags": ["javascript"],
+      "tags": ["web", "javascript"],
       "badges": [],
       "socials": [
         {
@@ -568,7 +568,7 @@
       "shortBio": "",
       "bio":
       "Henrik Vendelbo learned technology by playing with BASIC as a kid. An Industrial Designer by heart he has spent a lifetime helping teams all over the Western World make Software. He is exploring the edge of how we interact with computing, seeking a more human interface. Living in the age of GUI and Web Documents, he is experimenting with what a 3rd Visual Layout paradigm would look like. Otherwise he is looking into new ways for Solopreneurs to level up their business with technology.",
-      "tags": ["javascript", "pwa"],
+      "tags": ["web", "javascript", "pwa"],
       "badges": [],
       "socials": [
         {
@@ -612,7 +612,7 @@
       "shortBio": "",
       "bio":
       "GDE For IoT. Passionate geek for all areas of technology with a strong love for Android and embedded devices. Been working with technology for the last 16 years, where 6 have been with embedded devices and 8 have been with Android, due to that, is really favouring the Android Things, that connect these two technologies.",
-      "tags": ["iot"],
+      "tags": ["iot", "web", "mobile"],
       "badges": [],
       "socials": [
         {
