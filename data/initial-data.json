@@ -372,7 +372,7 @@
   "speakers": [
     {
       "id": 1,
-      "featured": "true",
+      "featured": true,
       "name": "Edward Medvedev",
       "title": "Google Developer Expert",
       "company": "Google Developer Expert",
@@ -399,7 +399,7 @@
     },
     {
       "id": 2,
-      "featured": "true",
+      "featured": true,
       "name": "Markus Leutwyler",
       "title": "Chief Nodebotanist",
       "company": "Fablab Zurich",
@@ -421,7 +421,7 @@
     },
     {
       "id": 3,
-      "featured": "true",
+      "featured": true,
       "name": "Sergey Kibish",
       "title": "Software Engineer / Lead",
       "company": "Neueda",
@@ -448,7 +448,7 @@
     },
     {
       "id": 4,
-      "featured": "true",
+      "featured": true,
       "name": "Ekaterina Kamenskaya",
       "title": "Engineering Productivity Manager, also Google Women in Engineering Lead",
       "company": "Google",
@@ -470,7 +470,7 @@
     },
     {
       "id": 5,
-      "featured": "true",
+      "featured": true,
       "name": "Jean-Baptiste Clion",
       "title": "Vice President, Trade Surveillance",
       "company": "Credit Suisse",
@@ -492,7 +492,7 @@
     },
     {
       "id": 6,
-      "featured": "true",
+      "featured": true,
       "name": "Nico Martin",
       "title": "Frontend Developer",
       "company": "Say Hello GmbH",
@@ -514,7 +514,7 @@
     },
     {
       "id": 7,
-      "featured": "true",
+      "featured": true,
       "name": "Wicher Visser",
       "title": "Senior Consultant / Software Architect / Business Developer",
       "company": "ERNI",
@@ -536,7 +536,7 @@
     },
     {
       "id": 8,
-      "featured": "true",
+      "featured": true,
       "name": "Coming soon",
       "title": "Coming soon",
       "company": "Coming soon",
@@ -558,7 +558,7 @@
     },
     {
       "id": 9,
-      "featured": "true",
+      "featured": true,
       "name": "Henrik Vendelbo",
       "title": "Designer & Developer",
       "company": "The Digital Gap",
@@ -580,7 +580,7 @@
     },
     {
       "id": 10,
-      "featured": "true",
+      "featured": true,
       "name": "Coming soon",
       "title": "Coming soon",
       "company": "Google ",
@@ -602,7 +602,7 @@
     },
     {
       "id": 11,
-      "featured": "true",
+      "featured": true,
       "name": "James Mark Coggan",
       "title": "Lead Mobile Software Engineer",
       "company": "MyDrive Solutions",
@@ -624,7 +624,7 @@
     },
     {
       "id": 12,
-      "featured": "true",
+      "featured": true,
       "name": "Iiro Krankka",
       "title": "Mobile Developer",
       "company": "Codemate Ltd.",
@@ -646,7 +646,7 @@
     },
     {
       "id": 13,
-      "featured": "true",
+      "featured": true,
       "name": "Laura Morinigo",
       "title": "CIO, Co-founder",
       "company": "Dmod Labs",
@@ -668,7 +668,7 @@
     },
     {
       "id": 14,
-      "featured": "true",
+      "featured": true,
       "name": "Torry Jang",
       "title": "Developer Programs Engineer",
       "company": "Google",
