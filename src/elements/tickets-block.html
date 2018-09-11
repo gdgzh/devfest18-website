@@ -89,11 +89,9 @@
       </div>
       <div class="details">{$ ticketsDetails $}</div>
       <div class="not-enough-money">
-        {$ diversityTickets $} <br>
-        <a href="[[app.tickets.diversity]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-          <paper-button class="buy-button" raised>Diversity Tickets</paper-button>
+        {$ diversityTickets $} <a href="[[app.tickets.diversity]]" target="_blank">
+          <paper-button class="buy-button" raised>{$ applyForDiversityTicket $}</paper-button>
         </a>
-         <br>
       </div>
       <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
