@@ -357,7 +357,7 @@
   "speakers": [
     {
       "id": 1,
-      "featured": "true",
+      "featured": true,
       "name": "Edward Medvedev",
       "title": "Google Developer Expert",
       "company": "Google Developer Expert",
@@ -384,7 +384,7 @@
     },
     {
       "id": 2,
-      "featured": "true",
+      "featured": true,
       "name": "Markus Leutwyler",
       "title": "Chief Nodebotanist",
       "company": "Fablab Zurich",
@@ -406,7 +406,7 @@
     },
     {
       "id": 3,
-      "featured": "true",
+      "featured": true,
       "name": "Sergey Kibish",
       "title": "Software Engineer / Lead",
       "company": "Neueda",
@@ -433,7 +433,7 @@
     },
     {
       "id": 4,
-      "featured": "true",
+      "featured": true,
       "name": "Ekaterina Kamenskaya",
       "title": "Engineering Productivity Manager, also Google Women in Engineering Lead",
       "company": "Google",
@@ -455,7 +455,7 @@
     },
     {
       "id": 5,
-      "featured": "true",
+      "featured": true,
       "name": "Jean-Baptiste Clion",
       "title": "Vice President, Trade Surveillance",
       "company": "Credit Suisse",
