@@ -11,14 +11,6 @@
       ]
     },
     {
-      "title": "Platinum Partners",
-      "logos": []
-    },
-    {
-      "title": "Gold Partners",
-      "logos": []
-    },
-    {
       "title": "Location Partner",
       "logos": [
         {
@@ -27,6 +19,10 @@
           "url": "https://www.hsr.ch"
         }
       ]
+    },
+    {
+      "title": "Media Partners",
+      "logos": []
     }
   ],
   "schedule": [
