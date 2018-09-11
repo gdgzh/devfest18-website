@@ -521,7 +521,7 @@
     },
     {
       "id": 8,
-      "featured": true,
+      "featured": false,
       "name": "Coming soon",
       "title": "Coming soon",
       "company": "Coming soon",
@@ -565,7 +565,7 @@
     },
     {
       "id": 10,
-      "featured": true,
+      "featured": false,
       "name": "Coming soon",
       "title": "Coming soon",
       "company": "Google ",
