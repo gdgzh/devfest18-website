@@ -4,9 +4,7 @@ That means that it is time to open [call for talk submissions](http://bit.ly/dfc
 
 To keep up this year, we decided to focus on the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.
 <div class="text-center">
-<a href="http://bit.ly/dfch18-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
-</a>
+The time has passed out - We have selected our speakers. Please have a look to the speakers webpage
 </div>
 
 <br/>
@@ -22,9 +20,7 @@ Well, do you know a better way to attend the conference? Here are our top 3 reas
 **Call for Papers will stay open until August 31, 2018.** Don’t miss out :)
 
 <div class="text-center">
-<a href="http://bit.ly/dfch18-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
-</a>
+The time has passed out - We have selected our speakers. Please have a look to the speakers webpage
 </div>
 <br/>
 
