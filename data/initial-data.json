@@ -11,14 +11,6 @@
       ]
     },
     {
-      "title": "Platinum Partners",
-      "logos": []
-    },
-    {
-      "title": "Gold Partners",
-      "logos": []
-    },
-    {
       "title": "Location Partner",
       "logos": [
         {
@@ -27,6 +19,10 @@
           "url": "https://www.hsr.ch"
         }
       ]
+    },
+    {
+      "title": "Media Partners",
+      "logos": []
     }
   ],
   "schedule": [
@@ -36,53 +32,63 @@
       "timeslots": [
         {
           "startTime": "08:30",
-          "endTime": "09:15",
+          "endTime": "09:00",
           "sessions": [[992]]
         },
         {
-          "startTime": "09:15",
-          "endTime": "9:30",
+          "startTime": "09:00",
+          "endTime": "9:15",
           "sessions": [[996]]
         },
         {
-          "startTime": "09:30",
-          "endTime": "10:15",
-          "sessions": [[999]]
+          "startTime": "09:15",
+          "endTime": "10:00",
+          "sessions": [[705]]
         },
         {
-          "startTime": "10:30",
-          "endTime": "11:15",
-          "sessions": [[777]]
+          "startTime": "10:15",
+          "endTime": "11:00",
+          "sessions": [[706]]
         },
         {
-          "startTime": "11:30",
-          "endTime": "12:15",
-          "sessions": [[777]]
+          "startTime": "11:15",
+          "endTime": "12:00",
+          "sessions": [[701]]
         },
         {
-          "startTime": "12:30",
+          "startTime": "12:00",
           "endTime": "13:30",
           "sessions": [[993]]
         },
         {
           "startTime": "13:30",
           "endTime": "14:15",
-          "sessions": [[777]]
+          "sessions": [[708]]
         },
         {
           "startTime": "14:30",
           "endTime": "15:15",
-          "sessions": [[777]]
+          "sessions": [[709]]
         },
         {
           "startTime": "15:30",
           "endTime": "16:15",
-          "sessions": [[777]]
+          "sessions": [[710]]
         },
         {
           "startTime": "16:30",
           "endTime": "17:15",
-          "sessions": [[777]]
+          "sessions": [[703]]
+        },
+        {
+          "startTime": "17:15",
+          "endTime": "18:00",
+          "sessions": [[998]]
+        },
+        {
+          "startTime": "18:00",
+          "endTime": "22:00",
+          "sessions": [[997]]
         }
       ],
       "tracks": [
@@ -96,49 +102,44 @@
       "dateReadable": "October 21",
       "timeslots": [
         {
-          "startTime": "08:30",
-          "endTime": "09:30",
-          "sessions": [[995]]
+          "startTime": "09:15",
+          "endTime": "10:00",
+          "sessions": [[702]]
         },
         {
-          "startTime": "09:30",
-          "endTime": "10:15",
-          "sessions": [[777]]
+          "startTime": "10:15",
+          "endTime": "11:00",
+          "sessions": [[711]]
         },
         {
-          "startTime": "10:30",
-          "endTime": "11:15",
-          "sessions": [[777]]
+          "startTime": "11:15",
+          "endTime": "12:00",
+          "sessions": [[704]]
         },
         {
-          "startTime": "11:30",
-          "endTime": "12:15",
-          "sessions": [[777]]
-        },
-        {
-          "startTime": "12:30",
+          "startTime": "12:00",
           "endTime": "13:30",
           "sessions": [[993]]
         },
         {
           "startTime": "13:30",
           "endTime": "14:15",
-          "sessions": [[777]]
+          "sessions": [[707]]
         },
         {
           "startTime": "14:30",
           "endTime": "15:15",
-          "sessions": [[777]]
+          "sessions": [[712]]
         },
         {
           "startTime": "15:30",
           "endTime": "16:15",
-          "sessions": [[777]]
+          "sessions": [[713]]
         },
         {
           "startTime": "16:30",
           "endTime": "17:15",
-          "sessions": [[994]]
+          "sessions": [[700]]
         }
       ],
       "tracks": [
@@ -154,10 +155,9 @@
       "description": "How do people learn? How does our brain decide what to keep and what to throw away? How can we teach new things and make sure they stick? In a talk that brings together technology, education and science, Ed explores the history of teaching and learning from prehistoric times to modern-day schools — borrowing a few neat tricks from video games and interstellar messages in the process.",
       "id": 700,
       "language": "English",
-      "presentation":
-      "",
+      "presentation": "",
       "speakers": [0],
-      "tags": ["Meta"],
+      "tags": ["meta", "learning", "education"],
       "title": "How to Teach (Almost) Anything"
     },
     "701": {
@@ -165,10 +165,9 @@
       "description": "Developers, this is your chance to dive into the World of Hardware! Javascript is already the most used Language on the Web that it makes sense to use it for Robotics as well! Ever more powerful and cheap Microprocessors combined with Javascript Frameworks for Robotics and AI enable to easily build even complex robots that integrate machine vision and machine learning.",
       "id": 701,
       "language": "English",
-      "presentation":
-      "",
+      "presentation": "",
       "speakers": [1],
-      "tags": ["ML & AI"],
+      "tags": ["artificial-intelligence", "javascript", "robotics"],
       "title": "Javascript Robotics and AI"
     },
     "702": {
@@ -176,10 +175,9 @@
       "description": "'Wow, I have not thought about this' - told me one of the colleagues. Golang is a sobering language that refreshes your view on doing things. It shifted our mindset about the usual flow of application development and now there is no way back. During this talk speaker will share his experience of migrating from OOP style applications to the Golang. How view on doing things shifted through time and how it changed development. He will talk about success, struggle and mistakes. After this talk it will be easier for you to convince your friends/colleagues to move to the Golang.",
       "id": 702,
       "language": "English",
-      "presentation":
-      "",
+      "presentation": "",
       "speakers": [2],
-      "tags": ["General Programming"],
+      "tags": ["oop", "go"],
       "title": "Journey from OO language to Golang"
     },
     "703": {
@@ -187,10 +185,9 @@
       "description": "You will learn how mindfulness helps grow self-awareness, navigate daily obstacles, envision your future and become a leader.",
       "id": 703,
       "language": "English",
-      "presentation":
-      "",
+      "presentation": "",
       "speakers": [3],
-      "tags": ["Meta"],
+      "tags": ["meta", "leadership", "mindfulness"],
       "title": "Role of mindfulness in career"
     },
     "704": {
@@ -198,19 +195,107 @@
       "description": "Chatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.",
       "id": 704,
       "language": "English",
-      "presentation":
-      "",
+      "presentation": "",
       "speakers": [4],
-      "tags": ["ML & AI"],
+      "tags": ["artificial-intelligence", "bots"],
       "title": "B2B: Leveraging Bot-To-Bot communications"
+    },
+    "705": {
+      "complexity": "Intermediate",
+      "description": "Progressive Web Apps are awesome! There are so many great examples of frontend webapps which completely replace native apps. But what about the 99%? PWA is an awesome concept which should be avaiable for everyone. So I spent a lot of time integrating PWA-features into conventional multi site applications and I also developed the first fully featured progressive web app plugin for WordPress. In this talk I'd like to point out some of the main points about how progressive web app features can be used as an add-on and improve everyone's website.",
+      "id": 705,
+      "language": "English",
+      "presentation": "",
+      "speakers": [5],
+      "tags": ["web", "pwa", "wordpress"],
+      "title": "Progressive Web Apps for everyone"
+    },
+    "706": {
+      "complexity": "Intermediate",
+      "description": "What happens when you put a group of technology enthusiasts together on a Swiss mountain? Their mission, experiment with technologies and create a Minimum Viable Product. Let them self-manage the project from inception to delivery. In this talk, we take that journey with the team. How did the ideation workshop give focus to the product scope? In what way did the collaboration take root? We will look at how an air quality and dust measurement application is created using an IoT sensor network that connects to cloud-hosted infrastructure. The power of machine learning is utilized to forecast next-day air quality. A progressive web app and open-data format makes the information available to the public.",
+      "id": 706,
+      "language": "English",
+      "presentation": "",
+      "speakers": [6],
+      "tags": ["iot"],
+      "title": "When the forecast comes out of the box"
+    },
+    "707": {
+      "complexity": "Intermediate",
+      "description": "Coming soon",
+      "id": 707,
+      "language": "English",
+      "presentation": "",
+      "speakers": [7],
+      "tags": ["web"],
+      "title": "Coming soon"
+    },
+    "708": {
+      "complexity": "Intermediate",
+      "description": "Single Page Web Applications used to be rare beasts giving you some of the power of native Applications without having to install anything. Gmail was a revelation and marked the beginning of a decade of moving Enterprise application development to the Modern Web, and adopting rich interactions on the Web. Today most Web Development has turned to Application Development using ecosystems such as React, Vue and Angular. They have become the default way to build a Web Experience. Traditional web pages are being replaced by Single Page Applications, but is that the right medicine. What was so great about the Web to begin with, and how does that match up with what we make today?",
+      "id": 708,
+      "language": "English",
+      "presentation": "",
+      "speakers": [8],
+      "tags": ["web", "javascript", "pwa"],
+      "title": "The Web We Lost"
+    },
+    "709": {
+      "complexity": "Intermediate",
+      "description": "Coming soon",
+      "id": 709,
+      "language": "English",
+      "presentation": "",
+      "speakers": [9],
+      "tags": ["mobile"],
+      "title": "Coming soon"
+    },
+    "710": {
+      "complexity": "Intermediate",
+      "description": "Android Things gives you the ability to connect all your IoT devices! You can write Android apps for Android Things the same way you write your current Android apps (Kotlin or Java). In this hands-on talk you will find out how to connect your Android phone to your home with Firebase. By the end of the session, you’ll know how to send data across from and back to your home, interacting with your devices from anywhere in the world.",
+      "id": 710,
+      "language": "English",
+      "presentation": "",
+      "speakers": [10],
+      "tags": ["iot", "web", "firebase"],
+      "title": "Thingyfy your home with Android Things and Firebase"
+    },
+    "711": {
+      "complexity": "Intermediate",
+      "description": "Flutter is great for building native apps. PWAs are a great improvement for the mobile web. But what if we could have the best of both worlds? Turns out we can! Learn how to share the maximum amount of code between Flutter and web apps, with tips, tricks and best practices along the way.",
+      "id": 711,
+      "language": "English",
+      "presentation": "",
+      "speakers": [11],
+      "tags": ["mobile", "web"],
+      "title": "The best of both worlds - achieving next-level code sharing between Flutter and the mobile web"
+    },
+    "712": {
+      "complexity": "Intermediate",
+      "description": "Actions on Google is a developer platform that lets you create software to extend the functionality of the Google Assistant, Google’s virtual personal assistant, across more than 500 million devices, including smart speakers, phones, cars, TVs, headphones, watches, and more. During this talk you are going to learn how to create conversational apps with Google Actions and the features of Firebase.",
+      "id": 712,
+      "language": "English",
+      "presentation": "",
+      "speakers": [12],
+      "tags": ["mobile", "firebase"],
+      "title": "Creating conversational apps with Google Actions and Firebase"
+    },
+    "713": {
+      "complexity": "Intermediate",
+      "description": "Cloud AutoML is a suite of machine learning products that enables developers with limited machine learning expertise to train high-quality models specific to their business needs, by leveraging Google’s state-of-the-art transfer learning and neural architecture search technology. Torry Yang explores the AutoML Vision, Translate, and Natural Language services and demonstrates how powerful and easy they are to use.",
+      "id": 713,
+      "language": "English",
+      "presentation": "",
+      "speakers": [13],
+      "tags": ["artificial-intelligence", "education"],
+      "title": "Cloud AutoML Competes in Kaggle"
     },
     "777": {
       "complexity": "Beginner",
       "description": "TBA",
       "id": 777,
       "language": "English",
-      "presentation":
-        "",
+      "presentation": "",
       "speakers": [],
       "tags": ["TBA"],
       "title": "TBA"
@@ -257,10 +342,10 @@
     },
     "998": {
       "description":
-        "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+        "Take your chance, and your 5 minutes fame and present something you like to talk about. The Stage is yours!",
       "id": 998,
       "image": "/images/backgrounds/closing.jpg",
-      "title": "Conference closing and contest winners announcements"
+      "title": "Lightning Talks"
     },
     "999": {
       "description": "",
@@ -282,14 +367,8 @@
       "shortBio": "",
       "bio":
         "Ed loves to teach other people things about stuff! By day he writes code, organizes conferences, mentors tech communities, and learns how to be more efficient at knowledge transfer. By night he spends countless hours designing Blacklight, an alternate reality game for aspiring hackers.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Meta",
-          "description": "Google Developer Expert",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["meta", "learning", "education"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -315,14 +394,8 @@
       "shortBio": "",
       "bio":
       "Markus is a technical consultant during day time and a maker in his spare time. As a co-founder and regular at FabLab Winterthur, he works on Robotics, IoT and Low-Power Networking. His various interests range from Photography, Multipotentialism to co-working and Music.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "ML & AI",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["artificial-intelligence", "javascript", "robotics"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -343,14 +416,8 @@
       "shortBio": "",
       "bio":
       "Sergey is a Software Engineer, GDG Riga and Devfest Baltics organizer. Have hands-on experience with different technologies. Can't sit still and don’t do something for a long time. When there is a spare time - enjoy life in a different ways. Don’t be afraid to ask questions.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "General Programming",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["programming-languages", "oop", "go"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
@@ -376,14 +443,8 @@
       "shortBio": "",
       "bio":
       "Ekaterina has been working in Google for 10 years helping increase Engineering Productivity and product quality in various teams such as Google Chrome and YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Being passionate in inclusion and education, Ekaterina is leading the internal education community focusing on Googlers‘ learning and development, and also Google Women Engineers community in Zurich. She gives regular talks, mentors, and teaches technical courses, as well as courses for personal development (e.g. Search Inside Yourself).",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "Meta",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["meta", "leadership", "mindfulness"],
+      "badges": [],
       "socials": [
         {
           "icon": "linkedin",
@@ -404,19 +465,211 @@
       "shortBio": "",
       "bio":
       "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.",
-      "tags": ["Speaker"],
-      "badges": [
-        {
-          "name": "ML & AI",
-          "description": "",
-          "link": "https://devfest.ch"
-        }
-      ],
+      "tags": ["artificial-intelligence", "bots"],
+      "badges": [],
       "socials": [
         {
           "icon": "twitter",
           "name": "Twitter",
           "link": "https://twitter.com/JBaptisteClion"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "featured": true,
+      "name": "Nico Martin",
+      "title": "Frontend Developer",
+      "company": "Say Hello GmbH",
+      "companyLogo": "/images/logos/say-hello.svg",
+      "country": "Switzerland",
+      "photoUrl": "/images/people/speakers/nico_martin.jpg",
+      "shortBio": "",
+      "bio":
+      "Nico Martin is a web-developer passionate about the latest frontend technologies and WordPress. And he is always trying to connect both while working mostly on corporate websites for clients, as freelancer and within various open source projects.",
+      "tags": ["web", "pwa", "wordpress"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/nic_o_martin"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "featured": true,
+      "name": "Wicher Visser",
+      "title": "Senior Consultant / Software Architect / Business Developer",
+      "company": "ERNI",
+      "companyLogo": "/images/logos/erni.png",
+      "country": "Switzerland",
+      "photoUrl": "/images/people/speakers/wicher_visser.jpg",
+      "shortBio": "",
+      "bio":
+      "Wicher is a software architect / developer and a IT consultant at ERNI. He has a background in machine learning and computer-based learning. These days he helps clients transform their application landscape to the cloud and adopt IoT, AR, and AI solutions.",
+      "tags": ["iot"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/wicher-visser-7225357/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "featured": false,
+      "name": "Coming soon",
+      "title": "Coming soon",
+      "company": "Coming soon",
+      "companyLogo": "",
+      "country": "Coming soon",
+      "photoUrl": "/images/logos/google.svg",
+      "shortBio": "",
+      "bio":
+      "Coming soon",
+      "tags": ["meta", "learning", "education"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/GDGZH"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "featured": true,
+      "name": "Henrik Vendelbo",
+      "title": "Designer & Developer",
+      "company": "The Digital Gap",
+      "companyLogo": "",
+      "country": "Switzerland",
+      "photoUrl": "/images/people/speakers/henry_vendelbo.jpg",
+      "shortBio": "",
+      "bio":
+      "Henrik Vendelbo learned technology by playing with BASIC as a kid. An Industrial Designer by heart he has spent a lifetime helping teams all over the Western World make Software. He is exploring the edge of how we interact with computing, seeking a more human interface. Living in the age of GUI and Web Documents, he is experimenting with what a 3rd Visual Layout paradigm would look like. Otherwise he is looking into new ways for Solopreneurs to level up their business with technology.",
+      "tags": ["web", "javascript", "pwa"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/henrikvendelbo"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "featured": false,
+      "name": "Coming soon",
+      "title": "Coming soon",
+      "company": "Google ",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "Switzerland",
+      "photoUrl": "",
+      "shortBio": "",
+      "bio":
+      "Coming soon",
+      "tags": ["meta", "learning", "education"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/GDGZH"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "featured": true,
+      "name": "James Mark Coggan",
+      "title": "Lead Mobile Software Engineer",
+      "company": "MyDrive Solutions",
+      "companyLogo": "/images/logos/mydrive.svg",
+      "country": "United Kingdom",
+      "photoUrl": "/images/people/speakers/mark_coggan.jpg",
+      "shortBio": "",
+      "bio":
+      "GDE For IoT. Passionate geek for all areas of technology with a strong love for Android and embedded devices. Been working with technology for the last 16 years, where 6 have been with embedded devices and 8 have been with Android, due to that, is really favouring the Android Things, that connect these two technologies.",
+      "tags": ["iot", "web", "mobile"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/mad_team"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "featured": true,
+      "name": "Iiro Krankka",
+      "title": "Mobile Developer",
+      "company": "Codemate Ltd.",
+      "companyLogo": "/images/logos/codemate.jpg",
+      "country": "Finland",
+      "photoUrl": "/images/people/speakers/iiro_krankka.jpg",
+      "shortBio": "",
+      "bio":
+      "Iiro is a passionate mobile developer who loves developing robust mobile apps for Android and lately, iOS. He fell in love with Flutter over one year ago and it has been a never ending love story ever since - now he's one of the few Google Developer Experts for Dart & Flutter. Recently, Iiro has been playing with sharing Dart business logic across the web and mobile, and things are quite interesting.",
+      "tags": ["mobile", "flutter"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/koorankka"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "featured": true,
+      "name": "Laura Morinigo",
+      "title": "CIO, Co-founder",
+      "company": "Dmod Labs",
+      "companyLogo": "/images/logos/dmod_labs.jpg",
+      "country": "United Kingdom",
+      "photoUrl": "/images/people/speakers/laura_morinigo.jpg",
+      "shortBio": "",
+      "bio":
+      "Laura is a Google Developer Expert, entrepreneur, and mentor. She has been involved in the tech industry over 10 years, working with different technologies as a fullstack developer and getting involved with education projects teaching coding. She is one of the organizers of GDG Cloud London and Women Techmakers lead. Originally from Buenos Aires, Argentina, she has been a digital nomad for about one year, traveling around; doing talks, workshops and connecting with the local tech communities. While she was on the road she created with her co-founders DMode Labs: a software company that promotes diversity and remote working.",
+      "tags": ["mobile", "firebase"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/lala_morinigo"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "featured": true,
+      "name": "Torry Jang",
+      "title": "Developer Programs Engineer",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "United States",
+      "photoUrl": "/images/people/speakers/torry_jang.jpg",
+      "shortBio": "",
+      "bio":
+      "Torry Yang is an engineer at Google, where he works to improve the experience of machine learning developers on Google Cloud. Recently, he has worked on Cloud AutoML, BigQuery ML, and Cloud ML Engine.",
+      "tags": ["artificial-intelligence", "education"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/torryyang"
         }
       ]
     }
@@ -701,9 +954,9 @@
         "price": 50,
         "currency": " CHF",
         "starts": "May 1",
-        "ends": "September 30",
+        "ends": "ended",
         "info": "Or first 50 tickets",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "Normal",
@@ -720,9 +973,19 @@
         "starts": "May 1",
         "ends": "October 21",
         "soldOut": false
+      },
+      {
+        "name": "Diversity",
+        "price": "",
+        "currency": " FREE",
+        "starts": "May 1",
+        "ends": "October 21",
+        "soldOut": false
       }
+
     ],
-    "url": "https://www.eventbrite.com/e/devfest-2018-tickets-45157555464#tickets"
+    "url": "https://www.eventbrite.com/e/devfest-2018-tickets-45157555464#tickets",
+    "diversity": "https://docs.google.com/forms/d/1jGPh6FGXyJcV8o5qiwgraDnvCHYuXOZ8EHbA2LQgWSE"
   },
   "videos": [
     {
