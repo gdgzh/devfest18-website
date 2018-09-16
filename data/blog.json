@@ -24,5 +24,14 @@
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/c4p-is-open.jpg",
     "brief": "GDG DevFest Switzerland 2018 is announced! The 3rd edition of the biggest conference around Google technologies in Switzerland will take place on **October 20-21** in the beautiful city of Rapperswil. That means that it is time to open our [call for talk submissions](http://bit.ly/dfch18-c4p)."
+  },
+  {
+    "id": "speaker-announced",
+    "title": "GDG DevFest Switzerland 2018 Speaker Announced",
+    "posted": "2018-09-15",
+    "primaryColor": "#4caf50",
+    "secondaryColor": "#4caf50",
+    "image": "/images/posts/speakers-announced.jpg",
+    "brief": "The speakers have been selected"
   }
 ]
