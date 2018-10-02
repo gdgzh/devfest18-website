@@ -520,28 +520,6 @@
       ]
     },
     {
-      "id": 8,
-      "featured": false,
-      "name": "Coming soon",
-      "title": "Coming soon",
-      "company": "Coming soon",
-      "companyLogo": "",
-      "country": "Coming soon",
-      "photoUrl": "/images/logos/google.svg",
-      "shortBio": "",
-      "bio":
-      "Coming soon",
-      "tags": ["meta", "learning", "education"],
-      "badges": [],
-      "socials": [
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": "https://twitter.com/GDGZH"
-        }
-      ]
-    },
-    {
       "id": 9,
       "featured": true,
       "name": "Henrik Vendelbo",
@@ -560,28 +538,6 @@
           "icon": "twitter",
           "name": "Twitter",
           "link": "http://twitter.com/henrikvendelbo"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "featured": false,
-      "name": "Coming soon",
-      "title": "Coming soon",
-      "company": "Google ",
-      "companyLogo": "/images/logos/google.svg",
-      "country": "Switzerland",
-      "photoUrl": "",
-      "shortBio": "",
-      "bio":
-      "Coming soon",
-      "tags": ["meta", "learning", "education"],
-      "badges": [],
-      "socials": [
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": "https://twitter.com/GDGZH"
         }
       ]
     },
