@@ -879,8 +879,29 @@
               "link": "https://www.facebook.com/katarina.sheremet"
             }
           ]
-        }
-
+        },
+        {
+          "name": "Cédric Walter",
+          "title": "Miscellaneous",
+          "photoUrl": "/images/people/CedricWalter.jpg",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/cedric.walter",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/cedricwalter",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/cedricwalter/",
+              "name": "LinkedIn"
+            }
+          ]
+        },
       ]
     },
     {
