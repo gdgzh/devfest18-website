@@ -1075,5 +1075,18 @@
       "thumbnail": "https://i3.ytimg.com/vi/DZwrA8pxq58/hqdefault.jpg",
       "speakers": "Jorge Barroso"
     }
-  ]
+  ],
+  "userSessions" : {
+    "D4iAASwvfxb1KEEZn0JW2LFZau22" : {
+      "701" : true,
+      "705" : true,
+      "711" : true,
+      "712" : true
+    },
+    "wDEpMbQHtWYYbQ0mFtLy93qGgku2" : {
+      "705" : true,
+      "992" : true,
+      "996" : true
+    }
+  }
 }
