@@ -102,6 +102,11 @@
       "dateReadable": "October 21",
       "timeslots": [
         {
+          "startTime": "08:30",
+          "endTime": "9:15",
+          "sessions": [[995]]
+        },
+        {
           "startTime": "09:15",
           "endTime": "10:00",
           "sessions": [[702]]
