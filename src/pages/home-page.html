@@ -2,6 +2,7 @@
 
 <link rel="import" href="../behaviors/cascaded-behavior.html">
 <link rel="import" href="../behaviors/page-behavior.html">
+<link rel="import" href="../elements/featured-raffle.html">
 <link rel="import" href="../elements/statistics-block.html">
 <link rel="import" href="../elements/featured-people.html">
 {% if videosSessionsUrl %}
@@ -26,6 +27,7 @@
 
   <template>
 
+    <raffle-block app="{{app}}" cascaded></raffle-block>
     <statistics-block app="{{app}}" cascaded></statistics-block>
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
     {% if videosSessionsUrl %}
