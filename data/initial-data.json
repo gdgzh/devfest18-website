@@ -247,13 +247,13 @@
     },
     "709": {
       "complexity": "Intermediate",
-      "description": "What is all about Instant Apps",
+      "description": "Instant Apps bridge the gap between the beauty of a native app and the ease of a web app.They bring to the user native look & feel without the need to install anything. Developers can build rich instant preview of their apps functionality which drastically reduces uninstall rates.",
       "id": 709,
       "language": "English",
       "presentation": "",
       "speakers": [9],
       "tags": ["mobile"],
-      "title": "Android - Instant Apps"
+      "title": "Android instant apps for lightweight native experience"
     },
     "710": {
       "complexity": "Intermediate",
@@ -554,10 +554,10 @@
       "company": "Google",
       "companyLogo": "/images/logos/google.svg",
       "country": "Switzerland",
-      "photoUrl": "",
+      "photoUrl": "/images/people/speakers/margaret_lisowiec.jpg",
       "shortBio": "",
       "bio":
-      "Margaret is a Mobile Software Engineer at Google in Zurich, Switzerland",
+      "Margaret Lisowiec is a Software Engineer at Google Zurich, working on mobile products. Recently she has been leading the development of Android Google Trips Application.",
       "tags": ["mobile", "android"],
       "badges": [],
       "socials": []
