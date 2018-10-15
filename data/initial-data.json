@@ -354,8 +354,8 @@
       "title": "Keynote"
     }
   },
-  "speakers": [
-    {
+  "speakers": {
+    "0": {
       "id": 1,
       "featured": true,
       "name": "Edward Medvedev",
@@ -382,7 +382,7 @@
         }
       ]
     },
-    {
+    "1": {
       "id": 2,
       "featured": true,
       "name": "Markus Leutwyler",
@@ -404,7 +404,7 @@
         }
       ]
     },
-    {
+    "2": {
       "id": 3,
       "featured": true,
       "name": "Sergey Kibish",
@@ -431,7 +431,7 @@
         }
       ]
     },
-    {
+    "3": {
       "id": 4,
       "featured": true,
       "name": "Ekaterina Kamenskaya",
@@ -453,7 +453,7 @@
         }
       ]
     },
-    {
+    "4": {
       "id": 5,
       "featured": true,
       "name": "Jean-Baptiste Clion",
@@ -475,7 +475,7 @@
         }
       ]
     },
-    {
+    "5": {
       "id": 6,
       "featured": true,
       "name": "Nico Martin",
@@ -497,7 +497,7 @@
         }
       ]
     },
-    {
+    "6": {
       "id": 7,
       "featured": true,
       "name": "Wicher Visser",
@@ -519,29 +519,7 @@
         }
       ]
     },
-    {
-      "id": 8,
-      "featured": false,
-      "name": "Coming soon",
-      "title": "Coming soon",
-      "company": "Coming soon",
-      "companyLogo": "",
-      "country": "Coming soon",
-      "photoUrl": "/images/logos/google.svg",
-      "shortBio": "",
-      "bio":
-      "Coming soon",
-      "tags": ["meta", "learning", "education"],
-      "badges": [],
-      "socials": [
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": "https://twitter.com/GDGZH"
-        }
-      ]
-    },
-    {
+    "8": {
       "id": 9,
       "featured": true,
       "name": "Henrik Vendelbo",
@@ -563,29 +541,7 @@
         }
       ]
     },
-    {
-      "id": 10,
-      "featured": false,
-      "name": "Coming soon",
-      "title": "Coming soon",
-      "company": "Google ",
-      "companyLogo": "/images/logos/google.svg",
-      "country": "Switzerland",
-      "photoUrl": "",
-      "shortBio": "",
-      "bio":
-      "Coming soon",
-      "tags": ["meta", "learning", "education"],
-      "badges": [],
-      "socials": [
-        {
-          "icon": "twitter",
-          "name": "Twitter",
-          "link": "https://twitter.com/GDGZH"
-        }
-      ]
-    },
-    {
+    "10": {
       "id": 11,
       "featured": true,
       "name": "James Mark Coggan",
@@ -607,7 +563,7 @@
         }
       ]
     },
-    {
+    "11": {
       "id": 12,
       "featured": true,
       "name": "Iiro Krankka",
@@ -629,7 +585,7 @@
         }
       ]
     },
-    {
+    "12": {
       "id": 13,
       "featured": true,
       "name": "Laura Morinigo",
@@ -651,7 +607,7 @@
         }
       ]
     },
-    {
+    "13": {
       "id": 14,
       "featured": true,
       "name": "Torry Jang",
@@ -673,7 +629,7 @@
         }
       ]
     }
-  ],
+  },
   "team": [
     {
       "title": "Core Team",
