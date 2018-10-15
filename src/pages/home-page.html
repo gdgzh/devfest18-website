@@ -2,6 +2,7 @@
 
 <link rel="import" href="../behaviors/cascaded-behavior.html">
 <link rel="import" href="../behaviors/page-behavior.html">
+<link rel="import" href="../elements/featured-raffle.html">
 <link rel="import" href="../elements/statistics-block.html">
 <link rel="import" href="../elements/featured-people.html">
 {% if videosSessionsUrl %}
@@ -34,10 +35,11 @@
     {% if callToAction %}
       <call-to-action app="{{app}}" cascaded></call-to-action>
     {% endif %}
-    <about-block app="{{app}}" cascaded></about-block>
+    <featured-raffle app="{{app}}" cascaded></featured-raffle>
     {% if gallery %}
       <photo-block app="{{app}}" cascaded></photo-block>
     {% endif %}
+    <about-block app="{{app}}" cascaded></about-block>
     <tickets-block app="{{app}}" cascaded></tickets-block>
     <latest-posts app="{{app}}" posts="{{posts}}" cascaded></latest-posts>
     <social-feed app="{{app}}" cascaded></social-feed>

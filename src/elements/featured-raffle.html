@@ -1,0 +1,53 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-image/iron-image.html">
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+
+<link rel="import" href="../styles/shared-styles.html">
+<link rel="import" href="../behaviors/utils-behavior.html">
+
+
+<dom-module id="featured-raffle">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        display: block;
+        background: #fff;
+      }
+
+      .container {
+        padding-bottom: 30px;
+        text-align: center;
+      }
+    </style>
+
+    <div class="container" style="display: block">
+      <h4 class="heading">{$ featuredRaffleTitle $}</h4>
+      <p>
+        On Sunday, we will raffle multiple <a href="https://vr.google.com/daydream/" target="_blank">Google Daydreams</a> to all participants who are on site.
+        Daydream takes you on incredible adventures in virtual reality. Get ready to immerse yourself in new experiences by staying until Sunday evening!
+      </p>
+      <div class="text-center" style="margin: 45px 0;">
+        <img src="/images/posts/daydream-small.jpg" width="600" align="middle">
+      </div>
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+        is: 'featured-raffle',
+        behaviors: [ HOVERBOARD.UtilsBehavior ],
+        properties: {},
+      });
+    }());
+  </script>
+
+</dom-module>
