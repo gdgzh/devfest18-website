@@ -109,12 +109,12 @@
         {
           "startTime": "09:15",
           "endTime": "10:00",
-          "sessions": [[702]]
+          "sessions": [[711]]
         },
         {
           "startTime": "10:15",
           "endTime": "11:00",
-          "sessions": [[711]]
+          "sessions": [[702]]
         },
         {
           "startTime": "11:15",
@@ -129,7 +129,7 @@
         {
           "startTime": "13:30",
           "endTime": "14:15",
-          "sessions": [[707]]
+          "sessions": [[713]]
         },
         {
           "startTime": "14:30",
@@ -139,7 +139,7 @@
         {
           "startTime": "15:30",
           "endTime": "16:15",
-          "sessions": [[713]]
+          "sessions": [[707]]
         },
         {
           "startTime": "16:30",
@@ -193,7 +193,7 @@
       "presentation": "",
       "speakers": [3],
       "tags": ["meta", "leadership", "mindfulness"],
-      "title": "Role of mindfulness in career"
+      "title": "Mindfulness for personal and career development"
     },
     "704": {
       "complexity": "Intermediate",
@@ -227,13 +227,13 @@
     },
     "707": {
       "complexity": "Intermediate",
-      "description": "Coming soon",
+      "description": "This talk will cover how innovation mindset and culture has been key to Google's growth in last 20 years, making products that work for users across the globe, are accessible for all and also the role AI/ML is playing towards this in our own products but also for the growing ecosystem of Machine Learning partners",
       "id": 707,
       "language": "English",
       "presentation": "",
       "speakers": [7],
-      "tags": ["web"],
-      "title": "Coming soon"
+      "tags": ["artificial-intelligence", "culture"],
+      "title": "AI/ML Innovation & Culture"
     },
     "708": {
       "complexity": "Intermediate",
@@ -247,13 +247,13 @@
     },
     "709": {
       "complexity": "Intermediate",
-      "description": "What is all about Instant Apps",
+      "description": "Instant Apps bridge the gap between the beauty of a native app and the ease of a web app.They bring to the user native look & feel without the need to install anything. Developers can build rich instant preview of their apps functionality which drastically reduces uninstall rates.",
       "id": 709,
       "language": "English",
       "presentation": "",
       "speakers": [9],
       "tags": ["mobile"],
-      "title": "Android - Instant Apps"
+      "title": "Android instant apps for lightweight native experience"
     },
     "710": {
       "complexity": "Intermediate",
@@ -524,6 +524,28 @@
         }
       ]
     },
+    "7": {
+      "id": 8,
+      "featured": true,
+      "name": "Uttam Tripathi",
+      "title": "Head of Global Program for Dev Ecosystem Team at Google",
+      "company": "Google",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "United States",
+      "photoUrl": "/images/people/speakers/uttam_tripathi.jpg",
+      "shortBio": "",
+      "bio":
+      "Uttam is Head of Global Program for Dev Ecosystem Team at Google. Prior to this Uttam led Launchpad Program at Google and was Country Head, Developer Relations for Google in India. In his pre-Google roles Uttam worked as a management consultant at Booz & Co. and Software Developer Engineer at Amazon India. Uttam holds a degree in Computer Science from IIT Kanpur, India and an MBA from Indian School of Business, India",
+      "tags": ["ai"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://twitter.com/tripathiuttam"
+        }
+      ]
+    },
     "8": {
       "id": 9,
       "featured": true,
@@ -554,10 +576,10 @@
       "company": "Google",
       "companyLogo": "/images/logos/google.svg",
       "country": "Switzerland",
-      "photoUrl": "",
+      "photoUrl": "/images/people/speakers/margaret_lisowiec.jpg",
       "shortBio": "",
       "bio":
-      "Margaret is a Mobile Software Engineer at Google in Zurich, Switzerland",
+      "Margaret Lisowiec is a Software Engineer at Google Zurich, working on mobile products. Recently she has been leading the development of Android Google Trips Application.",
       "tags": ["mobile", "android"],
       "badges": [],
       "socials": []
@@ -635,7 +657,7 @@
       "title": "Google Cloud Platform Engineer",
       "company": "Google",
       "companyLogo": "/images/logos/google.svg",
-      "country": "United States",
+      "country": "France",
       "photoUrl": "/images/people/speakers/valentin_deleplace.jpg",
       "shortBio": "",
       "bio":
