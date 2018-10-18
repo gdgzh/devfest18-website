@@ -197,13 +197,13 @@
     },
     "704": {
       "complexity": "Intermediate",
-      "description": "Chatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.",
+      "description": "What makes flutter different to other frameworks, and why it is worth a look",
       "id": 704,
       "language": "English",
       "presentation": "",
       "speakers": [4],
-      "tags": ["artificial-intelligence", "bots"],
-      "title": "B2B: Leveraging Bot-To-Bot communications"
+      "tags": ["mobile"],
+      "title": "Flutter at its best"
     },
     "705": {
       "complexity": "Intermediate",
@@ -461,22 +461,22 @@
     "4": {
       "id": 5,
       "featured": true,
-      "name": "Jean-Baptiste Clion",
-      "title": "Vice President, Trade Surveillance",
-      "company": "Credit Suisse",
-      "companyLogo": "/images/logos/credit_suisse.svg",
+      "name": "Patrice Müller",
+      "title": "Mobile Developer",
+      "company": "SBB Railway",
+      "companyLogo": "",
       "country": "Switzerland",
       "photoUrl": "/images/people/speakers/jean-baptiste_clion.jpg",
       "shortBio": "",
       "bio":
-      "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.",
-      "tags": ["artificial-intelligence", "bots"],
+      "Patrice Müller is a passionated mobile developer. While working as a consultant, he knows best about the client requirements and how to match that with cutting-edge technologies",
+      "tags": ["mobile", "design"],
       "badges": [],
       "socials": [
         {
           "icon": "twitter",
           "name": "Twitter",
-          "link": "https://twitter.com/JBaptisteClion"
+          "link": "https://twitter.com/bacchus_zh"
         }
       ]
     },
