@@ -286,7 +286,7 @@
       "title": "Creating conversational apps with Google Actions and Firebase"
     },
     "713": {
-      "complexity": "Intermediate",
+      "complexity": "Beginner",
       "description": "The artificial vision spectrum ranges from fully automated generic Image Content Analysis (just give a picture and get answers, no configuration needed!) to fine-tuned neural network frameworks. In-between, AutoML techniques let you build high-accuracy prediction systems focused on your use case, discovering and learning the topology of your data of interest, without writing any line of code at all. For image classification, this typically involves providing hundreds of known photos to a platform to train a model, and then use this model to infer characteristics of new pictures. Supervised learning at its simplest: just show labeled samples, and you get a model. I will show and demo several recent tools that help build a model from a collection of pictures and a list of labels, and compare the UX and the results. Each may have its own answer to this fundamental question: Is it easier to detect Wallace or to detect Gromit?",
       "id": 713,
       "language": "English",
