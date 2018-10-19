@@ -109,17 +109,17 @@
         {
           "startTime": "09:15",
           "endTime": "10:00",
-          "sessions": [[711]]
+          "sessions": [[704]]
         },
         {
           "startTime": "10:15",
           "endTime": "11:00",
-          "sessions": [[702]]
+          "sessions": [[711]]
         },
         {
           "startTime": "11:15",
           "endTime": "12:00",
-          "sessions": [[704]]
+          "sessions": [[702]]
         },
         {
           "startTime": "12:00",
@@ -197,13 +197,13 @@
     },
     "704": {
       "complexity": "Intermediate",
-      "description": "Chatbot are offering new ways to interact and communicate with IT systems. Humans are now able to use natural language to order food, ask for music or check news. Chatbots are however designed to interact or discuss on a dedicated topic. Bot-To-Bot communications can be leveraged to expand initial chatbot capabilities. Let's have a 30 minutes talk to understand the potential of this communication model.",
+      "description": "What makes flutter different to other frameworks, and why it is worth a look",
       "id": 704,
       "language": "English",
       "presentation": "",
       "speakers": [4],
-      "tags": ["artificial-intelligence", "bots"],
-      "title": "B2B: Leveraging Bot-To-Bot communications"
+      "tags": ["mobile"],
+      "title": "Flutter at its best"
     },
     "705": {
       "complexity": "Intermediate",
@@ -286,7 +286,7 @@
       "title": "Creating conversational apps with Google Actions and Firebase"
     },
     "713": {
-      "complexity": "Intermediate",
+      "complexity": "Beginner",
       "description": "The artificial vision spectrum ranges from fully automated generic Image Content Analysis (just give a picture and get answers, no configuration needed!) to fine-tuned neural network frameworks. In-between, AutoML techniques let you build high-accuracy prediction systems focused on your use case, discovering and learning the topology of your data of interest, without writing any line of code at all. For image classification, this typically involves providing hundreds of known photos to a platform to train a model, and then use this model to infer characteristics of new pictures. Supervised learning at its simplest: just show labeled samples, and you get a model. I will show and demo several recent tools that help build a model from a collection of pictures and a list of labels, and compare the UX and the results. Each may have its own answer to this fundamental question: Is it easier to detect Wallace or to detect Gromit?",
       "id": 713,
       "language": "English",
@@ -461,22 +461,22 @@
     "4": {
       "id": 5,
       "featured": true,
-      "name": "Jean-Baptiste Clion",
-      "title": "Vice President, Trade Surveillance",
-      "company": "Credit Suisse",
-      "companyLogo": "/images/logos/credit_suisse.svg",
+      "name": "Patrice Müller",
+      "title": "Mobile Developer",
+      "company": "SBB Railway",
+      "companyLogo": "",
       "country": "Switzerland",
-      "photoUrl": "/images/people/speakers/jean-baptiste_clion.jpg",
+      "photoUrl": "/images/people/patrice_mueller.jpg",
       "shortBio": "",
       "bio":
-      "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2008.",
-      "tags": ["artificial-intelligence", "bots"],
+      "Patrice Müller is a passionated mobile developer. While working as a consultant, he knows best about the client requirements and how to match that with cutting-edge technologies",
+      "tags": ["mobile", "design"],
       "badges": [],
       "socials": [
         {
           "icon": "twitter",
           "name": "Twitter",
-          "link": "https://twitter.com/JBaptisteClion"
+          "link": "https://twitter.com/bacchus_zh"
         }
       ]
     },
@@ -1081,6 +1081,9 @@
       "705" : true,
       "711" : true,
       "712" : true
+    },
+    "F95JRE78ewNAmBEcBfhIVQyphO13" : {
+      "700" : true
     },
     "T4tgmV7GEKZWqbIX9mT226je6lV2" : {
       "701" : true,
