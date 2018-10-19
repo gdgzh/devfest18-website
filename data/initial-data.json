@@ -109,17 +109,17 @@
         {
           "startTime": "09:15",
           "endTime": "10:00",
-          "sessions": [[711]]
+          "sessions": [[704]]
         },
         {
           "startTime": "10:15",
           "endTime": "11:00",
-          "sessions": [[702]]
+          "sessions": [[711]]
         },
         {
           "startTime": "11:15",
           "endTime": "12:00",
-          "sessions": [[704]]
+          "sessions": [[702]]
         },
         {
           "startTime": "12:00",
@@ -466,7 +466,7 @@
       "company": "SBB Railway",
       "companyLogo": "",
       "country": "Switzerland",
-      "photoUrl": "/images/people/speakers/jean-baptiste_clion.jpg",
+      "photoUrl": "/images/people/patrice_mueller.jpg",
       "shortBio": "",
       "bio":
       "Patrice Müller is a passionated mobile developer. While working as a consultant, he knows best about the client requirements and how to match that with cutting-edge technologies",
