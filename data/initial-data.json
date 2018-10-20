@@ -310,24 +310,32 @@
         "Get your badge, coffee, enjoy talking with tech edicts around",
       "id": 992,
       "image": "/images/backgrounds/registration.jpg",
+      "tags": ["coffee"],
+      "language": "English",
       "title": "Registration & morning Coffee"
     },
     "993": {
       "description": "Foooooooood!",
       "id": 993,
       "image": "/images/backgrounds/lunch.jpg",
+      "tags": ["coffee"],
+      "language": "English",
       "title": "Lunch"
     },
     "994": {
       "description": "Coffeeeeeee!",
       "id": 994,
       "image": "/images/backgrounds/coffee-break.jpg",
+      "tags": ["coffee"],
+      "language": "English",
       "title": "Coffee break"
     },
     "995": {
       "description": "Coffeeeeeee!",
       "id": 995,
       "image": "/images/backgrounds/morning.jpg",
+      "tags": ["coffee"],
+      "language": "English",
       "title": "Morning coffee"
     },
     "996": {
@@ -335,14 +343,17 @@
         "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "id": 996,
       "image": "/images/backgrounds/opening.jpg",
+      "tags": ["other"],
       "language": "English",
       "title": "GDG DevFest Switzerland 2018 Opening"
     },
     "997": {
       "description":
-        "Afterparty is a great time to have some fun and meet new people",
+        "The afterparty is a great opportunity to meet new people, discuss technical and non-technical topics, and have fun. We will meet at the <a href='https://goo.gl/maps/48kr5wfyM1S2'>Nelson Pub</a> in Rapperswil, which is right next to the train station. You can find it here: <a href='https://www.google.ch/maps/dir/HSR+Hochschule+f%C3%BCr+Technik+Rapperswil,+Oberseestrasse,+Rapperswil-Jona/Restaurant%2FBar+Nelson,+Bahnhofpl.+1,+8640+Rapperswil-Jona/@47.224404,8.8147116,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x479ab6e12facc7ad:0x711fa65bf58f9c0f!2m2!1d8.8173627!2d47.2233607!1m5!1m1!1s0x479ab6e053eac04f:0xdbf4e58bce851df!2m2!1d8.8164224!2d47.2254146!3e2'>Directions</a> / <a href='https://goo.gl/maps/48kr5wfyM1S2'>Nelson Pub</a>",
       "id": 997,
       "image": "/images/backgrounds/party.jpg",
+      "tags": ["other"],
+      "language": "English",
       "title": "Afterparty & Networking"
     },
     "998": {
@@ -350,12 +361,15 @@
         "Take your chance, and your 5 minutes fame and present something you like to talk about. The Stage is yours!",
       "id": 998,
       "image": "/images/backgrounds/closing.jpg",
+      "tags": ["other"],
+      "language": "English",
       "title": "Lightning Talks"
     },
     "999": {
       "description": "",
       "id": 999,
       "language": "English",
+      "tags": ["other"],
       "title": "Keynote"
     }
   },
@@ -1076,6 +1090,9 @@
     }
   ],
   "userSessions" : {
+    "2KAnV2PasWWnbB5XUjcMWatXkml1" : {
+      "712" : true
+    },
     "D4iAASwvfxb1KEEZn0JW2LFZau22" : {
       "701" : true,
       "705" : true,
@@ -1090,10 +1107,17 @@
     },
     "T4tgmV7GEKZWqbIX9mT226je6lV2" : {
       "701" : true,
+      "703" : true,
       "705" : true,
       "706" : true,
+      "708" : true,
+      "709" : true,
+      "710" : true,
       "992" : true,
-      "996" : true
+      "993" : true,
+      "996" : true,
+      "997" : true,
+      "998" : true
     },
     "YJKQ8bqF0uVaQWj8Sc8Cd2Mv5bH2" : {
       "705" : true,
@@ -1135,6 +1159,14 @@
       "705" : true,
       "992" : true,
       "996" : true
+    }
+  },
+  "ratings" : {
+    "eVcHMf3Dmrg4gWwYpKQOnCrsMPJ3" : {
+      "sessions" : {
+        "701" : 2,
+        "706" : 3
+      }
     }
   }
 }
