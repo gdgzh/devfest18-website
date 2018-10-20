@@ -1090,6 +1090,9 @@
     }
   ],
   "userSessions" : {
+    "2KAnV2PasWWnbB5XUjcMWatXkml1" : {
+      "712" : true
+    },
     "D4iAASwvfxb1KEEZn0JW2LFZau22" : {
       "701" : true,
       "705" : true,
@@ -1104,10 +1107,17 @@
     },
     "T4tgmV7GEKZWqbIX9mT226je6lV2" : {
       "701" : true,
+      "703" : true,
       "705" : true,
       "706" : true,
+      "708" : true,
+      "709" : true,
+      "710" : true,
       "992" : true,
-      "996" : true
+      "993" : true,
+      "996" : true,
+      "997" : true,
+      "998" : true
     },
     "YJKQ8bqF0uVaQWj8Sc8Cd2Mv5bH2" : {
       "705" : true,
@@ -1149,6 +1159,14 @@
       "705" : true,
       "992" : true,
       "996" : true
+    }
+  },
+  "ratings" : {
+    "eVcHMf3Dmrg4gWwYpKQOnCrsMPJ3" : {
+      "sessions" : {
+        "701" : 2,
+        "706" : 3
+      }
     }
   }
 }
