@@ -127,8 +127,11 @@
                 <span>
                   [[session.startTime]] - [[session.endTime]]
                 </span>
-                <span>
+                <span hidden$="[[!_showSessionTrack(session)]]">
                   [[session.track.title]]
+                </span>
+                <span hidden$="[[!_locationName(session)]]">
+                  [[_locationName(session)]]
                 </span>
                 <span hidden$="[[!session.language]]">
                   [[session.language]]
@@ -352,8 +355,15 @@
 
         _getMyScheduleIcon: function (id) {
           this.fabIcon = this.isInMySchedule(id) ? 'calendar-check' : 'calendar-plus';
-        }
+        },
 
+        _showSessionTrack: function (session) {
+          return !this._locationName(session) && session.track.title;
+        },
+
+        _locationName: function (session) {
+          return session.title.indexOf('Afterparty') !== -1 ? 'Nelson Pub Rapperswil' : '';
+        }
       });
 
     }());
