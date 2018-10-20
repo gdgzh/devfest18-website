@@ -182,7 +182,8 @@
             <ul class="session-meta">
               <li hidden$="[[!session.language]]">[[session.language]]</li>
               <li hidden$="[[!session.complexity]]">[[session.complexity]]</li>
-              <li hidden$="[[!session.track.title]]">[[session.track.title]]</li>
+              <li hidden$="[[!_showSessionTrack(session)]]">[[session.track.title]]</li>
+              <li hidden$="[[!_locationName(session)]]">[[_locationName(session)]]</li>
             </ul>
           </div>
 
@@ -318,6 +319,14 @@
 
         _hasBottomMeta: function (session) {
           return session.tags && session.tags.length || session.presentation || session.videoId;
+        },
+
+        _showSessionTrack: function (session) {
+          return !this._locationName(session) && session.track.title;
+        },
+
+        _locationName: function (session) {
+          return session.title.indexOf('Afterparty') !== -1 ? 'Nelson Pub Rapperswil' : '';
         }
       });
 
