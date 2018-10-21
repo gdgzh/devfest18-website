@@ -123,8 +123,13 @@
         },
         {
           "startTime": "12:00",
-          "endTime": "13:30",
+          "endTime": "13:00",
           "sessions": [[993]]
+        },
+        {
+          "startTime": "13:00",
+          "endTime": "13:20",
+          "sessions": [[714]]
         },
         {
           "startTime": "13:30",
@@ -294,6 +299,16 @@
       "speakers": [13],
       "tags": ["artificial-intelligence", "education"],
       "title": "Computer vision: British Clay"
+    },
+    "714": {
+      "complexity": "Intermediate",
+      "description": "The tech sector is built on bright minds developing new solutions to create economic or social impact. This fast-paced industry has high stakes, which require people to meet even higher expectations. Many individuals within the sector — especially startup founders — have small teams (meaning each person serves in multiple roles), work long hours, second jobs or are still in school and constantly worry about \"making it\".<br> Many entrepreneurs are still not talking openly about their mental well-being. Mental health concerns in tech entrepreneurship are often referred to as \"founder's blues.\" Between 2011 and 2017, founder's blues has contributed to a number of high-profile suicides in the startup world, including Aaron Swartz, co-founder of Reddit. <br> Researchers from the University of California found that 72% of entrepreneurs surveyed self-reported mental health concerns. And about 49% disclosed they deal with ADD, ADHD, bipolar disorder, addiction, depression or anxiety. These figures were described as “significantly higher” than non-entrepreneurs. <br> My talk aims to encourage people to start talking about mental health and be more open and honest. My talk aims to inspire the mentally ill to not give up on their dreams. My talk aims to give hope to those who desperately need hope.",
+      "id": 714,
+      "language": "English",
+      "presentation": "",
+      "speakers": [14],
+      "tags": ["meta", "leadership", "education"],
+      "title": "Getting Honest About Mental Health In The World Of Tech Startups"
     },
     "777": {
       "complexity": "Beginner",
@@ -683,6 +698,28 @@
           "icon": "twitter",
           "name": "Twitter",
           "link": "https://twitter.com/val_deleplace"
+        }
+      ]
+    },
+    "14": {
+      "id": 15,
+      "featured": true,
+      "name": "Paul Hayes",
+      "title": "Mental Health advocate, tech entrepreneur, React/React Native Developer, Advisor to Train Effective and Founder of 7write",
+      "company": "7write",
+      "companyLogo": "",
+      "country": "Netherlands",
+      "photoUrl": "/images/people/speakers/paul_hayes.jpg",
+      "shortBio": "",
+      "bio":
+      "My name is Paul Hayes and I am a Mental Health advocate, tech entrepreneur, React/React Native Developer, Advisor to Train Effective and Founder of 7write (now called Writing Studio). I have been diagnosed with: Bipolar, ADHD, Irlen, Syndrome,Hypersensitivity, And I'm been investigated for some type of disorder that includes severe Paranoia. My doctors describe me as extremely similar to the guy depicted in the movie \"A beautiful mind\". Some days I'm a genius, others I'm completely insane, others I'm depressed and chronically fatigued, others I'm the most energetic guy you've ever seen. I'm almost never relaxed, I don't really know how to relax... Every day is a struggle for me, but at the same time, paradoxically, I'm one of the happiest guys on the planet. I want to share my story, and give hope to other Mentally Ill digital creatives like myself.",
+      "tags": ["meta", "leadership", "education"],
+      "badges": [],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/in/paul-hayes-2083b516/"
         }
       ]
     }
